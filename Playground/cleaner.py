@@ -2,7 +2,7 @@ import os
 import csv
 import re
 
-folder_path = "./Playground"
+folder_path = os.getcwd()
 
 for filename in os.listdir(folder_path):
     if filename.endswith(".csv"):
