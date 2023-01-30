@@ -1,3 +1,988 @@
-Transaction ID,Transaction Type,Date & time,Asset Acquired,"Quantity Acquired (Bought, Received, etc)",Cost Basis (incl. fees paid) (USD),Data Source,"Asset Disposed (Sold, Sent, etc)",Quantity Disposed,Proceeds (excl. fees paid) (USD)
-Poopie Inc.,Buy,Poopie Inc,BTC,JP Morgan Chase & Co.,202.35,Coinbase,,,
-Amazon (AWS)  ,Reward,Newark Airport LLC,Fluffy L.L.C.   ,Amazon (AWS),  Amazon (AWS),Coinbase, yeeeeeeeeeeeeeee Ltd.,,
+Linkedin,First Name,Last Name,Location,Company,Title
+https://www.linkedin.com/in/judymai96,Judy,Mai,"New York, New York, United States",Instagram,Software Engineer - Web Developer
+https://www.linkedin.com/in/julesbecker,Jules,B.,New York City Metropolitan Area,Join,Software Engineer
+https://www.linkedin.com/in/julian-rota-078229228,Julian,Rota,"New York, New York, United States",Google,Staff Software Engineer
+https://www.linkedin.com/in/julian-woo-69239716b,Julian,Woo,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/juliethesanchez,Julieth,Sanchez,"New York, New York, United States",The New York Times,Associate Software Engineer
+https://www.linkedin.com/in/june-kang-6377b5170,June,Kang,"New York, New York, United States",Ribbon Health,Software Engineer
+https://www.linkedin.com/in/junghoo-kim,Junghoo,Kim,"New York, New York, United States",IBM,Software Developer
+https://www.linkedin.com/in/junjiexu325,Junjie,X.,New York City Metropolitan Area,UnitedHealth Group,Software Engineer
+https://www.linkedin.com/in/junyu-bian-942336191,Junyu,Bian,New York City Metropolitan Area,Intel Corporation,Edge Computing Engineer
+https://www.linkedin.com/in/junyuhe,Junyu,He,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/justin-liang-516142071,Justin,Liang,"Brooklyn, New York, United States",JPMorgan Chase & Co.,Software Engineer
+https://www.linkedin.com/in/justine-cho,Justine,Cho,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/justinejang42,Justine,Jang,"New York, New York, United States",Indeed,Software Engineer
+https://www.linkedin.com/in/jwang1139,Joseph,W.,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/jy-mina-chen,Mina,Chen,"New York, New York, United States",Noumena,Software Engineer
+https://www.linkedin.com/in/jzxhuang,Jeffrey,Huang,"New York, New York, United States",Spatial,Senior Software Engineer
+https://www.linkedin.com/in/k-m-rodriguez,Karina,Rodriguez,"Bronx, New York, United States",Slack,Software Engineering Intern
+https://www.linkedin.com/in/k4vglitcher-399891119,Julio,Melchor,"New York, New York, United States",Medtronic,Software Engineer II
+https://www.linkedin.com/in/kager,Adrian,Kager,"New York, New York, United States",Regrello,Software Engineer
+https://www.linkedin.com/in/kah-soon-yap-754067176,Kah Soon,Yap,New York City Metropolitan Area,Microsoft,Software Engineer
+https://www.linkedin.com/in/kairi-sameshima,Kairi,Sameshima,New York City Metropolitan Area,RippleMatch,Software Engineer
+https://www.linkedin.com/in/kaitlin-taylor-02a158147,Kaitlin,Taylor,Greater Philadelphia,Lockheed Martin,Software Engineer
+https://www.linkedin.com/in/kaiwen-jack-s-00a13014a,Kaiwen,S.,"New York, New York, United States",LinkedIn,Senior Software Engineer
+https://www.linkedin.com/in/kalissafeinberg,Kalissa,Feinberg,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/kana-mishra,Kana,Mishra,"New York, New York, United States",Luma Financial Technologies,Software Engineer
+https://www.linkedin.com/in/karanchahal,Karanbir,Chahal,"New York, New York, United States",NVIDIA,Software Engineer
+https://www.linkedin.com/in/karey-zheng,Karey,Zheng,"New York, New York, United States",Google,Software Engineer Intern
+https://www.linkedin.com/in/karl-boatright,Karl,Boatright,"Brooklyn, New York, United States",Intuit,Senior Software Engineer
+https://www.linkedin.com/in/katherine-wang-9103461b,Katherine,Wang,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/katherinechae,Katherine,Chae,San Francisco Bay Area,Momentive.ai,Software Engineer
+https://www.linkedin.com/in/katherineelenalazar,Katherine,Lazar,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/kathleen-xue-b2004381,Kathleen,Xue,"New York, New York, United States",Twitch,Software Engineer
+https://www.linkedin.com/in/kathryn-araki,Kathryn,Araki,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/kathryn-dineen,Kate,Dineen,"New York, New York, United States",rSchoolToday,Software Engineer
+https://www.linkedin.com/in/katie-cai-021463133,Katie,Cai,"New York, New York, United States",Gusto,Software Engineer
+https://www.linkedin.com/in/kaylah-kennedy-231414129,Kaylah,Kennedy,"New York, New York, United States",The Washington Post,Full Stack Software Engineer
+https://www.linkedin.com/in/kayvon-seif-naraghi-3a3737ba,Kayvon,Seif-Naraghi,"New York, New York, United States",Mobilize,Senior Software Engineer
+https://www.linkedin.com/in/kcherianthomas,K Cherian,Thomas,"New York, New York, United States",Goldman Sachs,Associate Software Engineer
+https://www.linkedin.com/in/kckenneth,Kenneth,C,United States,Yahoo,Software Engineer
+https://www.linkedin.com/in/kelwen,Kelwen,Peng,"New York, New York, United States",Ghost,Senior Software Engineer
+https://www.linkedin.com/in/ken-cole,Ken,Cole,"New York, New York, United States",Jane Street,Software Engineer
+https://www.linkedin.com/in/kenrick-tse,Kenrick,Tse,"New York, New York, United States",Gro Intelligence,Software Engineer
+https://www.linkedin.com/in/kent-hall-7b39b11a0,Kent,Hall,"New York, New York, United States",VMware,Software Engineer
+https://www.linkedin.com/in/kepingwang,Keping,Wang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kerry-hollis-a51195115,Kerry,Hollis,"New York, New York, United States",THE TUDOR GROUP,Quantitative Developer
+https://www.linkedin.com/in/kevin-d-261032154,Kevin,D.,"New York, New York, United States",Teladoc Health,Software Engineer
+https://www.linkedin.com/in/kevin-kim-3b036b23a,Kevin,Kim,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kevin-kortright,Kevin,Kortright,"Albany, New York Metropolitan Area",Gracenote,Software Engineer II
+https://www.linkedin.com/in/kevin-li-257bb327,Kevin,Li,"New York, New York, United States",Grammarly,Software Engineer
+https://www.linkedin.com/in/kevin-peng2,Kevin,Peng,"New York, New York, United States",Infor,Software Engineer
+https://www.linkedin.com/in/kevinc13,Kevin,C.,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/kevinjkuo,Kevin,Kuo,"New York, New York, United States",Oracle,Software Developer
+https://www.linkedin.com/in/kevinkabore,Kevin,Kaboré,"New York, New York, United States",Peloton Interactive,Software Engineer
+https://www.linkedin.com/in/kevinli96,Kevin,Li,"New York, New York, United States",Twitter,Senior Software Engineer
+https://www.linkedin.com/in/khanh-ng-hn99,Khanh,Nguyen,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kiran95,Kiran,Ramesh,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/kklan99,Kevin,Lan,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kobi-greene,Kobi,Greene,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/koliva,Kayla,Oliva,"New York, New York, United States",Spotify,Engineer II
+https://www.linkedin.com/in/kravisankaran,Kumud,Ravisankaran,"New York, New York, United States",Goldman Sachs,Technology Associate | Software Engineer
+https://www.linkedin.com/in/kristofer-kwan-113a83143,Kristofer,Kwan,"East Northport, New York, United States",Indeed,Software Engineer
+https://www.linkedin.com/in/ksgill55,karan,gill,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kshitija-patel,Kshitija,Patel,"New York, New York, United States",Google,"Software Engineer, ML Core"
+https://www.linkedin.com/in/kuanyu-huang,Kuan-Yu,Huang,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/kulgod,Abhishek,Kulgod,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/kunal-jobanputra,Kunal,Jobanputra,"New York, New York, United States",Lacework,Senior Software Engineer
+https://www.linkedin.com/in/kunal-kataria,Kunal,Kataria,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/kunal-naik,Kunal,Naik,"New York, New York, United States",Soho,Senior Software Engineer
+https://www.linkedin.com/in/kushwanth,Kushwanth,Ram,New York City Metropolitan Area,Two Sigma,Senior Software Engineer
+https://www.linkedin.com/in/kwling,Kangwei,Ling,"New York, New York, United States",TuSimple,Software Engineer
+https://www.linkedin.com/in/kyle-fox-30b290124,kyle,fox,"New York, New York, United States",Square,Software Security Engineer
+https://www.linkedin.com/in/kyle-o-rourke-a5473aa0,Kyle,O'Rourke,"New York, New York, United States",Stash,Senior Backend Software Engineer
+https://www.linkedin.com/in/kyle-roberts-178752210,Kyle,Roberts,"New York, New York, United States",Wilmar International,Lead Software Engineer
+https://www.linkedin.com/in/kyle-spinelli,Kyle,Spinelli,"Commack, New York, United States",SCYTHE,Software Engineer
+https://www.linkedin.com/in/lanting-he-622530a4,Lanting,He,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/larissa-c,Larissa,C.,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/larissa-chen-364b15b2,Larissa,Chen,"New York, New York, United States",Google,Senior Software Engineer
+https://www.linkedin.com/in/larissa-clopton-345a63126,Larissa,Clopton,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/lawanrahim,Lawan,Rahim,"New York, New York, United States",Resera Capital,Software Engineer
+https://www.linkedin.com/in/lea-broudo,Lea,Broudo,"New York, New York, United States",Zocdoc,Full Stack Software Engineer
+https://www.linkedin.com/in/lee-bernick-22a99bb0,Lee,Bernick,"Brooklyn, New York, United States",Google,Senior Software Engineer
+https://www.linkedin.com/in/lenarenshaw,Lena,R.,"New York, New York, United States",Paces (YC S22),Founding Engineer
+https://www.linkedin.com/in/leslie-bresnahan-6aab7b11a,Leslie,Bresnahan,"New York, New York, United States",Palantir Technologies,Forward Deployed Software Engineer
+https://www.linkedin.com/in/li-victoria,Victoria,Li,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/liangbin-lee-a88170128,Liangbin,Lee,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/lih238,Ling-I,Huang,"New York, New York, United States",Teachable,Software Engineer
+https://www.linkedin.com/in/lihong1993,Hong,Lee,"Yonkers, New York, United States",HuddleCamHD,Lead Software Engineer
+https://www.linkedin.com/in/lily-k-4b6030138,Lily,K.,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/lilyschneiderman,Lily,Schneiderman,New York City Metropolitan Area,VMware,Software Developer
+https://www.linkedin.com/in/linda-sunny15,Linda,Sunny,"New York, New York, United States",Wells Fargo,Software Engineer
+https://www.linkedin.com/in/lindsey-wales,Lindsey,Wales,"Brooklyn, New York, United States",Publicis Sapient,Engineer L1
+https://www.linkedin.com/in/lingyihu,Lingyi,Hu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/linmario,Mario,Lin,"New York, New York, United States",LinkedIn,Senior Software Engineer
+https://www.linkedin.com/in/linnan-wang-37854a89,Linnan,Wang,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/lisa-yoo,Lisa,Yoo,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/litofish,Luna,Ito-Fisher,"New York, New York, United States",Oscar Health,Software Engineer II
+https://www.linkedin.com/in/liv-martens,Liv,Martens,"Brooklyn, New York, United States",Rightpoint,Frontend Developer
+https://www.linkedin.com/in/liz-radway-9b07b2162,Liz,Radway,New York City Metropolitan Area,Harvard University,WEcode Tech Conference Digital Media Lead
+https://www.linkedin.com/in/lizhong-bi,Lizhong,Bi,United States,Uber,Software Engineer
+https://www.linkedin.com/in/logan-h-snow,Logan,Snow,"New York, New York, United States",Uncountable Inc,Software Engineer
+https://www.linkedin.com/in/longxue,Long,Xue,United States,Google,Software Engineer
+https://www.linkedin.com/in/lorraineleungmk,Lorraine,Leung,"New York, New York, United States","Kasisto, Inc.",Software Engineer
+https://www.linkedin.com/in/lottameriluoto,Lotta,Meriluoto,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/louis-gabrie-a49a47157,Louis,Gabrie,"New York, New York, United States",Specific Gravity Group,Infrastructure Engineer
+https://www.linkedin.com/in/louis-guigo,Louis,Guigo,"New York, New York, United States",Latour Trading,Quantitative Research Developper
+https://www.linkedin.com/in/louischao1006,Chun-Lin,Chao,New York City Metropolitan Area,TikTok,Software Engineer
+https://www.linkedin.com/in/lovelina-douglas-5214371a2,Lovelina,Douglas,Utica-Rome Area,naviHealth,Junior Software Engineer
+https://www.linkedin.com/in/lpham21,Lauren,P.,"New York, New York, United States",J.P. Morgan Asset Management,Software Engineer
+https://www.linkedin.com/in/lschex,Lauren,Schexnayder,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/lsharir,Liran,Sharir,"New York, New York, United States",Paxos,Software Engineer
+https://www.linkedin.com/in/lucas-cassels-78a60216a,Lucas,Cassels,"New York, New York, United States",Nuro,Software Engineer
+https://www.linkedin.com/in/lucas-kasser-85517a242,Lucas,Kasser,"Boston, Massachusetts, United States",Included Health,Senior Software Engineer
+https://www.linkedin.com/in/lucas-munro-9b63ba109,Lucas,Munro,"New York, New York, United States",Yext,Software Engineer
+https://www.linkedin.com/in/lucy1116,Lucy,Wang,"New York, New York, United States",Meta,Software Engineer Intern
+https://www.linkedin.com/in/ludazhao,Luda,Zhao,"New York, New York, United States",Google,Senior Software Engineer
+https://www.linkedin.com/in/lueewu410427,I-Wu,Lu,"Sunnyvale, California, United States",Roblox,Senior Software Engineer
+https://www.linkedin.com/in/luis-olivar-062aa9175,Luis,Olivar,"Queens, New York, United States",Oracle,Principal Software Engineer
+https://www.linkedin.com/in/luizdovalle,Luiz,do Valle,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/luka-baramishvili,Luka,Baramishvili,"Brooklyn, New York, United States",Solter Capital,Frontend Developer
+https://www.linkedin.com/in/luna-yuqian-luo-7a03b416a,Luna,Luo,New York City Metropolitan Area,Meta,Software Engineer
+https://www.linkedin.com/in/madeleine-nakada,Madeleine,N.,"New York, New York, United States",Plaid,Software Engineer
+https://www.linkedin.com/in/madelyn-cecchini-23552b144,Madelyn,Cecchini,"Manhasset, New York, United States",Salesforce,Software Engineer
+https://www.linkedin.com/in/madinaradjabova,Madina,R.,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/mahesh-aithal-86830925b,Mahesh,Aithal,"Brooklyn, New York, United States",The Hartford,Software Engineer Intern
+https://www.linkedin.com/in/mahlet-yifru,Mahlet,Yifru,"New York, New York, United States",Nextdoor,Software Engineer
+https://www.linkedin.com/in/mahmoud-abdo-nyu,Mahmoud,Abdo,"Brooklyn, New York, United States",T. Rowe Price,"Infrastructure Engineer, Site Reliability Engineer"
+https://www.linkedin.com/in/maida-sijaric,Maya,Sijaric,New York City Metropolitan Area,MarketAxess,Associate Software Engineer
+https://www.linkedin.com/in/malaika-handa,Malaika,Handa,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/manika-agarwal-20522a110,Manika,Agarwal,United States,TikTok,"Senior Software Engineer, Ad Monetization"
+https://www.linkedin.com/in/manudionne,Manuel,Dionne,"New York, New York, United States",Lifion by ADP,Platform Engineer
+https://www.linkedin.com/in/maoyuwang,Maoyu,Wang,"Troy, New York, United States",IBM,Software Development Engineer
+https://www.linkedin.com/in/mapinch,Mattathias,Pinchover,New York City Metropolitan Area,Uber,Software Engineer
+https://www.linkedin.com/in/maria-b-javier,Maria,J.,New York City Metropolitan Area,Mojo,Software Engineer
+https://www.linkedin.com/in/mariana-tandon-a4482318b,Mariana,Tandon,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/marihusain,Mari,Husain,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/marisa-liang,Marisa,Liang,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/martin-rubin,Martin,R.,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/mason-li-53b926219,Mason,Li,"Brooklyn, New York, United States",Marlabs,Java Software Developer
+https://www.linkedin.com/in/matanh,Matan,Hillman,"New York, New York, United States",GTS,Software Engineer
+https://www.linkedin.com/in/mathusan-selva,Mathusan,Selvarajah,"New York, New York, United States",The MVP Pod,Podcast Host
+https://www.linkedin.com/in/matildarehm,Matilda,R.,New York City Metropolitan Area,Goldman Sachs,Associate Software Engineer
+https://www.linkedin.com/in/matthew-broughton-782a44147,Matthew,Broughton,"New York, New York, United States",VMware,Software Engineer II
+https://www.linkedin.com/in/matthew-o-899080a9,Matthew,O.,"Queens County, New York, United States",Publicis Sapient,Software Development Engineer L1
+https://www.linkedin.com/in/matthew-p-325531144,Matthew,P.,"Vincentown, New Jersey, United States",Lockheed Martin,Member Engineering Staff
+https://www.linkedin.com/in/matthewwalinga,Matthew,W.,"New York, New York, United States",Indeed,Software Engineer II
+https://www.linkedin.com/in/max-hartman-01,Max,Hartman,"New York, New York, United States",Luma Financial Technologies,Software Development Engineer II
+https://www.linkedin.com/in/max-sichel-501712239,Max,Sichel,"Troy, New York, United States","Velan Studios, Inc.",Programmer
+https://www.linkedin.com/in/maxime-defauw-a08a82130,Maxime,Defauw,"New York, New York, United States",Palantir Technologies,Forward Deployed Software Engineer
+https://www.linkedin.com/in/maximemgriffon,Maxime,Griffon,"Troy, New York, United States",Optum,Software Engineer
+https://www.linkedin.com/in/maxwsmith,Max,Smith,United Kingdom,Northflank,Software Engineer
+https://www.linkedin.com/in/maya-choudhury,Maya,Choudhury,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/mayaitkinofer,Maya,Itkin-Ofer,"New York, New York, United States",Ophelia,Software Engineer
+https://www.linkedin.com/in/mayurjori,Mayur,Jori,New York City Metropolitan Area,Microsoft,Software Engineer II
+https://www.linkedin.com/in/mazen-rashed-531b4a21a,Mazen,Rashed,"New York, New York, United States",Google,Software Programmer
+https://www.linkedin.com/in/meghanavuyyuru,Meghana,V.,New York City Metropolitan Area,"Holocene Advisors, LP",Software Engineer
+https://www.linkedin.com/in/meltahawy,Mohamed,El Tahawy,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/mengyi-zhou-8a55a0119,Mengyi,Zhou,"New York, New York, United States",MicroStrategy,Associate Software Engineer in Test
+https://www.linkedin.com/in/mi-fang-431b49127,Mi,Fang,"New York, New York, United States",Google,Senior Software Engineer
+https://www.linkedin.com/in/mia-santomauro-b2037a152,Mia,Santomauro,"New York, New York, United States",Squarespace,Software Engineer
+https://www.linkedin.com/in/michael-buglione-913971129,Michael,Buglione,"Buffalo, New York, United States",M&T Bank,Software Engineer
+https://www.linkedin.com/in/michael-ds-harley,Michael,Harley,"New York, New York, United States",Goldman Sachs,Analyst - Software Engineer
+https://www.linkedin.com/in/michael-gu23,Michael,Gu,"New York, New York, United States",SCG America Group Inc.,Software Engineer
+https://www.linkedin.com/in/michael-lawes-443a1918b,Michael,Lawes,New York City Metropolitan Area,LinkedIn,Software Engineer
+https://www.linkedin.com/in/michael-menz-b5636a143,Michael,Menz,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/michaelkramer96,Michael,Kramer,"New York, New York, United States",Salesforce,Software Engineer
+https://www.linkedin.com/in/michel-vazirani-26976a15a,Michel,Vazirani,"New York, New York, United States","GLMX - Access, Automate, Analyze",Software Engineer
+https://www.linkedin.com/in/michele-lin-6091a9a4,Michele,Lin,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/michelle-kvetnoy-4b8320125,Michelle,Kvetnoy,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/miguel-molina-594475120,Miguel,Molina,"New York, New York, United States",Lyft,Senior Software Engineer
+https://www.linkedin.com/in/mihovilmandic,Mihovil,Mandic,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/mike-chen-77838b148,Mike,Chen,"New York, New York, United States",Square,Software Engineering Intern
+https://www.linkedin.com/in/mike-gu-650ab4115,Mike,Gu,"New York, New York, United States",Veda,Software Engineer
+https://www.linkedin.com/in/mike-rabbitz,Mike,Rabbitz,Greater Philadelphia,Lockheed Martin,Software Engineer
+https://www.linkedin.com/in/mikekachinski,Mike,Kachinski,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/mikesereiko,Mike,Sereiko,"New York, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/mimi-doan-10b73a106,Mimi,Doan,"New York, New York, United States",Vimeo,Software Engineer
+https://www.linkedin.com/in/min-yang-7a79a5136,Min,Yang,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/ming-h-970899126,Ming,H.,New York City Metropolitan Area,Qualtrics,Software Engineer
+https://www.linkedin.com/in/mingfang-chang-0216,Mingfang,Chang,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/minghanhuang,Ming Han,Huang,New York City Metropolitan Area,TuSimple,Software Engineer Intern
+https://www.linkedin.com/in/mingrubai,Mingru,Bai,"New York, New York, United States",Kinn,Founding Engineer
+https://www.linkedin.com/in/mingyuan-dong-284054138,Mingyuan,Dong,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/mingzhao-chen-090307127,Mingzhao,Chen,"Binghamton, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/mishail-tupas-811695155,Mishail,Tupas,"Liverpool, New York, United States",SRC,Software Engineer
+https://www.linkedin.com/in/mishri-daga,Mishri,Daga,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/mitchell-revers-b6989a69,Mitchell,Revers,"New York, New York, United States",GOAT Group,Software Engineer II
+https://www.linkedin.com/in/mnwysocki,Michelle,W.,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/mobolaji-adefope,Mobolaji,Adefope,"New York, New York, United States",Lattice,Software Engineer
+https://www.linkedin.com/in/modou-niang-a200b3119,Modou,Niang,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/mohammed-almaroof-965b13143,Mohammed,Almaroof,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/mona-z,Mona,Z.,"New York, New York, United States",Google,Incoming Software Engineer
+https://www.linkedin.com/in/monica-roy-1471661ab,Monica,Roy,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/monika-tochkova-5b76b8137,Monika,Tochkova,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/monisha-jegadeesan,Monisha,Jegadeesan,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/monjur-hasan,Monjur,Hasan,"Brooklyn, New York, United States",VMware,Software Engineer II
+https://www.linkedin.com/in/mrunaldave,Mrunal,Dave,New York City Metropolitan Area,Meta,Software Engineer
+https://www.linkedin.com/in/mrzhihaozhang,Zhihao,Z.,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/mzhou12,Meng,Zhou,"Brooklyn, New York, United States",SambaNova Systems,Software Engineer
+https://www.linkedin.com/in/najja-k-a4403772,Najja,K.,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/najlaa-bouras,Najlaa,B.,"New York, New York, United States",Nokia Bell Labs,Engineer
+https://www.linkedin.com/in/namanagar,naman,A.,"Brooklyn, New York, United States",Snorkel AI,UX Engineer
+https://www.linkedin.com/in/nan-gao06,Nan,Gao,United States,MongoDB,Software Engineer II
+https://www.linkedin.com/in/narindrapeaks,Narindra,Peaks,"New York, New York, United States",Pahdo Labs,Senior Software Engineer
+https://www.linkedin.com/in/nasir-pauldon-collins,Nasir,Pauldon-Collins,"Troy, New York, United States",IBM,Software Engineer
+https://www.linkedin.com/in/nasseri,Keyan,N.,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/nataliemuenster,Natalie,Muenster,"New York, New York, United States",Whatnot,Software Engineer
+https://www.linkedin.com/in/nataliia-khotiaintseva-76b6ab1b8,Nataliia,Khotiaintseva,"New York, New York, United States",KANERAI,Quantitative Developer
+https://www.linkedin.com/in/natefbennett,Nate,Bennett,"Troy, New York, United States",MM Hayes,Software Engineer
+https://www.linkedin.com/in/nathanielostrer,Nathaniel,Ostrer,"New York, New York, United States",WhatsApp,Software Engineer
+https://www.linkedin.com/in/nazifaislam,Nazifa,Islam,New York City Metropolitan Area,Thirty Madison,Senior Software Engineer
+https://www.linkedin.com/in/nazli-yurdakul-4a864296,Nazli,Yurdakul,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/ndureus,Nehemiah,Dureus,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/neeharikavangavaragu,Neeharika,Vangavaragu,"Brooklyn, New York, United States",mPulse Mobile,Software Engineer
+https://www.linkedin.com/in/nehaksridhar,Neha,Sridhar,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/neilwchen,Neil,Chen,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/newman-cheng,Newman,C.,"New York, New York, United States",Microsoft,Software Engineer II
+https://www.linkedin.com/in/nianhu,Nian,Hu,"New York, New York, United States",Shiftsmart,Software Engineer
+https://www.linkedin.com/in/nicholas-bishop,Nicholas,Bishop,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/nicholas-cornejo-431584169,Nicholas,Cornejo,"New York, New York, United States",Google,L4 Software Engineer
+https://www.linkedin.com/in/nicholas-m-252227174,Nicholas,M.,"Brooklyn, New York, United States",Intelus AI,Software Engineer
+https://www.linkedin.com/in/nicholaslicalzi,Nicholas,LiCalzi,"New York, New York, United States",Shopify,Senior Software Developer
+https://www.linkedin.com/in/nick-gregory-817887164,Nick,Gregory,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/nick-lemoing,Nick,Lemoing,"New York, New York, United States",Noom,Software Engineer
+https://www.linkedin.com/in/nickscotteaton,Nicholas,Eaton,United States,Google,Software Developer
+https://www.linkedin.com/in/nicksiena,Nick,S.,"Webster, New York, United States",What's Cookin',Senior Software Engineer
+https://www.linkedin.com/in/nickwyl,Nick,Wang,"New York, New York, United States",Micron Technology,Software Engineer
+https://www.linkedin.com/in/nicolae-lari,Nicolae,Lari,"New York, New York, United States",Microsoft,Software Engineer II
+https://www.linkedin.com/in/nicolas-barra2022,Nicolas,Barra,"New York, New York, United States",Lyft,Software Engineer
+https://www.linkedin.com/in/nicole-candiotti,Nicole,Candiotti,"New York, New York, United States",Savvas Learning Company,Associate Software Developer
+https://www.linkedin.com/in/nicole-glass-554933228,Nicole,Glass,"Brooklyn, New York, United States",Universe,Software Engineer
+https://www.linkedin.com/in/nicole-schwartz-861ba2132,Nicole,Schwartz,"Brooklyn, New York, United States",Seam Social Labs,Software Developer
+https://www.linkedin.com/in/nicoleccmoore,Nicole,Moore,"New York, New York, United States",UBS,Software Engineer - Technology Services - AppDev & Automation
+https://www.linkedin.com/in/nikitaagar,Nikita,Agarwal,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/niklas-bostrom,Niklas,Boström,"Brooklyn, New York, United States",Luma Financial Technologies,Software Development Engineer II
+https://www.linkedin.com/in/nina-chen1,Nina,Chen,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/nitgarg99,Nitin,Garg,"New Hartford, New York, United States",PAR Government,Software Engineer
+https://www.linkedin.com/in/nmhharvey,Harvey,Ng,"New York, New York, United States","National Institute for Computational Sciences, Oak Ridge National Lab",Research Intern
+https://www.linkedin.com/in/noah-schmid-87a856187,Noah,Schmid,"Ballston Lake, New York, United States",PVA,Software Engineer
+https://www.linkedin.com/in/noahjimenez,Noah,J.,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/npetrozzo,Nicole,Petrozzo,"New York, New York, United States",Order.co,Software Engineer II
+https://www.linkedin.com/in/nvaidyamath,Nikhil,V.,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/ocheng1,Olivia,C.,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/odell-sasha-60b775183,Odell,sasha,New York City Metropolitan Area,System C Healthcare,Software Engineer
+https://www.linkedin.com/in/oishika-chaudhury,Oishika,Chaudhury,United States,Microsoft,Software Engineer
+https://www.linkedin.com/in/oliver-hare,Oliver,Hare,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/oliverbaltay,Oliver,Baltay,"New York, New York, United States",Square,Senior Software Engineer
+https://www.linkedin.com/in/olivia-edell-742398214,Olivia,Edell,"Brooklyn, New York, United States",Lev,Frontend Engineer
+https://www.linkedin.com/in/oluwatonioshikanlu,Oluwatoni,Oshikanlu,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/omar-obeya-51192b82,Omar,Obeya,"New York, New York, United States",Two Sigma,Software Engineer - High Frequency Market Data
+https://www.linkedin.com/in/onlyvkg,Varun,Ganesan,United States,Stripe,Software Engineer
+https://www.linkedin.com/in/oskar-garcia-6223b3197,Oskar,Garcia,New York City Metropolitan Area,Nemoulous,Software Engineering Intern
+https://www.linkedin.com/in/parappally,Josiah,Parappally,United States,Ramp,Software Engineer
+https://www.linkedin.com/in/patricia-kusumaningtyas,Patricia,Kusumaningtyas,"New York, New York, United States",Sumitomo Mitsui Banking Corporation,Junior Software Developer
+https://www.linkedin.com/in/patrick-egbuchulam,Patrick,Egbuchulam,New York City Metropolitan Area,IBM,Cognitive Software Engineer
+https://www.linkedin.com/in/paul-spangfort,Paul,Spangfort,"New York, New York, United States",Merge,Software Engineer
+https://www.linkedin.com/in/pbardea,Paul,Bardea,"New York, New York, United States",Superblocks,Software Engineer
+https://www.linkedin.com/in/peeraya,Peeraya,Maetasatidsuk,"New York, New York, United States",Twilio,Software Engineer
+https://www.linkedin.com/in/peizhouguo,Peizhou,Guo,New York City Metropolitan Area,Microsoft,SDE II
+https://www.linkedin.com/in/pengyuhe,Pengyu,He,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/peter-l-wang,Peter,Wang,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/pgk2115,Peter,Kolodziej,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/phaniraj-aenugula,Phaniraj,Aenugula,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/philipfoo1,Philip,Foo,New York City Metropolitan Area,Square,Software Engineer
+https://www.linkedin.com/in/phudoanpham,Phu,Pham,New York City Metropolitan Area,Ripple,Software Engineer
+https://www.linkedin.com/in/pj-hernandez,P.J.,Hernandez,New York City Metropolitan Area,Peloton Interactive,Software Engineer
+https://www.linkedin.com/in/pranav-pillai-18547688,Pranav,Pillai,"New York, New York, United States",Palantir Technologies,Forward Deployed Software Engineer
+https://www.linkedin.com/in/pranavsharat,Pranav,Sharat,New York City Metropolitan Area,Goldman Sachs,Software Developer
+https://www.linkedin.com/in/pranaypatni,Pranay,Patni,New York City Metropolitan Area,Rokt,Software Engineer
+https://www.linkedin.com/in/praveenoak,Praveen,Oak,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/priyansh-sharma,Priyansh,Sharma,"New York, New York, United States",Wing,Software Engineer
+https://www.linkedin.com/in/puchinchen,Pu-Chin,Chen,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/puhan-li,Puhan,Li,"New York, New York, United States",Quip,Software Engineer
+https://www.linkedin.com/in/pujanpatel24,Pujan,Patel,"New York, New York, United States",Google,"Software Engineer, Machine Learning"
+https://www.linkedin.com/in/qi-wang-645489b6,Qi,Wang,"New York, New York, United States",Uber,Software Engineer Machine Learning
+https://www.linkedin.com/in/qian-helen-wang,Qian,Wang,"New York, United States",Zocdoc,Software Engineer II
+https://www.linkedin.com/in/qimingchen91129,Qiming,Chen,"New York, New York, United States",Nayya,Software Engineer
+https://www.linkedin.com/in/qingfu-wan-5719b5112,Qingfu,Wan,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/qingtian-gong-6a1533144,Qingtian,Gong,"New York, New York, United States",Uber,Software Engineer II - Machine Learning
+https://www.linkedin.com/in/qiyangh,Qiyang,He,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/qtoyoda,Quinn,Toyoda,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/quin-koether,Quin,Koether,"New York, New York, United States",SharpSports,Software Engineer - Head of Book Integrations
+https://www.linkedin.com/in/rachel-pehrsson-243b4a127,Rachel,Pehrsson,"New York, New York, United States",Scholastic,Associate Software Engineer
+https://www.linkedin.com/in/rachel-simpson-a77256115,Rachel,Simpson,"Brooklyn, New York, United States",Vimeo,Software Engineer
+https://www.linkedin.com/in/rachelma244,Rachel,Ma,New York City Metropolitan Area,Google,"Software Engineer, Site Reliability"
+https://www.linkedin.com/in/radamadah,Adam,Hadar,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/radhika-amina-60a389259,Radhika,Amina,"Hartford, Connecticut, United States",Microsoft,Senior Software Engineer
+https://www.linkedin.com/in/rahul-rainyu,Rahul,Rai,New York City Metropolitan Area,Quicklert,Software Engineer
+https://www.linkedin.com/in/rahulchander,Rahul,Chander,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/rajat-raghuwanshi-10,Rajat,Raghuwanshi,"Brooklyn, New York, United States",New York University,Javascript Developer
+https://www.linkedin.com/in/rajdeep-singhania-a8014712,Rajdeep,Singhania,"New York, New York, United States",IBM,Sr. JAVA Developer
+https://www.linkedin.com/in/rajivanisetti,Rajiv,Anisetti,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/randolph-john,John,Randolph,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/rashed-rifat,Rashed,Rifat,"Brooklyn, New York, United States",Khan's Tutorial,Software Engineer
+https://www.linkedin.com/in/ray-gao-8809aba5,Ray,Gao,United States,Uber,Senior Software Engineer
+https://www.linkedin.com/in/rayaggarwal97,Raymond,Aggarwal,"New York, New York, United States",Meta,Senior Software Engineer
+https://www.linkedin.com/in/raychun,Ray,Chun,"Brooklyn, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/rchau0623,Ryan,Chau,"New York, New York, United States",Hudson River Trading,Algo Engineer
+https://www.linkedin.com/in/rebecca-narin-563390152,Rebecca,Narin,"New York, New York, United States",Peloton Interactive,Software Development Engineer In Test
+https://www.linkedin.com/in/rebekahmkim,Rebekah,K.,"New York, New York, United States",Sigma Computing,Software Engineer Intern
+https://www.linkedin.com/in/remi-pan,Remi,P.,"New York, New York, United States",Level,Software Engineer
+https://www.linkedin.com/in/ren-tang-a76bb037,Ren,Tang,"Brooklyn, New York, United States",Maginx,Software Engineer
+https://www.linkedin.com/in/rene-g-510b32156,Rene,G.,"New York, New York, United States",Pattern Research,Software Developer
+https://www.linkedin.com/in/rene-tianco-985212102,Rene,Tianco,"Valley Stream, New York, United States",SS&C Innovest,Software Engineer
+https://www.linkedin.com/in/richa-v-74041497,Richa,V,"New York, New York, United States",Socure,Software Engineer II
+https://www.linkedin.com/in/richardkenn,Richard,Kennedy,"New York, New York, United States",Wing,Software Engineer
+https://www.linkedin.com/in/richieshi,Richie,Shi,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/risaparedesjuarez,Risa,Paredes Juarez,"New York, New York, United States",JPMorgan Chase & Co.,Software Developer
+https://www.linkedin.com/in/rishabb-r-4167bb180,Rishabb,R,New York City Metropolitan Area,Instagram,Software Engineer
+https://www.linkedin.com/in/riya-kumar-102b86169,Riya,Kumar,New York City Metropolitan Area,Goldman Sachs,Associate Software Engineer
+https://www.linkedin.com/in/roberta-nin-feliz-4438a1115,Roberta,Nin Feliz,New York City Metropolitan Area,Peloton Interactive,Software Engineer II
+https://www.linkedin.com/in/robertlhayes8,Robert,Hayes,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/rohit-motwani,Rohit,Motwani,"Queens, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/romy-zilkha-2173a944,Romy,Zilkha,"New York, New York, United States",Hyro,Full Stack Software Engineer
+https://www.linkedin.com/in/ronmeng,Ron,Meng,"New York, New York, United States",LinkedIn,Senior Software Engineer
+https://www.linkedin.com/in/roshan-babu,Roshan Babu,Koottiyaniyel,"New York, New York, United States",Walmart Global Tech,Software Development Intern
+https://www.linkedin.com/in/roxy-farhad-41b4b0215,Roxy,Farhad,"New York, New York, United States",Viam,Software Engineer
+https://www.linkedin.com/in/ruhip,Ruhi,Pudipeddi,"New York, New York, United States",Patreon,"Software Engineer, Growth"
+https://www.linkedin.com/in/ruidaxie,Ruida,Xie,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/ruiyang-lin,Bruce,L.,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/ruizhen-mai,Ruizhen,Mai,"New York, New York, United States",TikTok,Software Engineer
+https://www.linkedin.com/in/ryan-chun-463512b5,Ryan,Chun,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/ryan-j-ferner,Ryan,Ferner,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/ryan-shih-a2543829,Ryan,Shih,"New York, New York, United States",J.P. Morgan,"Associate, Software Engineering"
+https://www.linkedin.com/in/ryancurtis1,Ryan,Curtis,"New York, New York, United States",Skiplagged,Software Engineer
+https://www.linkedin.com/in/ryanschwarz99,Ryan,Schwarz,New York City Metropolitan Area,Infor,Associate Software Engineer
+https://www.linkedin.com/in/sagangwee,Sagang,Wee,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sai-dhanireddy,Sai,D.,"New York, New York, United States",Instacart,Software Engineer
+https://www.linkedin.com/in/saikirancvn,Sai Kiran,Challa,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/sakshamsachdev,Saksham,Sachdev,"New York, New York, United States",Superblocks,Founding Engineer
+https://www.linkedin.com/in/sally-zuo,Sally,Zuo,New York City Metropolitan Area,LinkedIn,"Software Engineer, Backend"
+https://www.linkedin.com/in/sam-rosenstrauch,Sam,Rosenstrauch,"New York, New York, United States",Viasat Inc.,Software Engineer
+https://www.linkedin.com/in/samanthashreeve,Samantha,S.,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/samay-nathani,Samay,Nathani,"New York, New York, United States",Robinhood,Software Engineer
+https://www.linkedin.com/in/sameer-tulshyan,Sameer,Tulshyan,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/samuel-obe,Samuel,Obe,New York City Metropolitan Area,WisdomTree Asset Management,Flutter Engineer
+https://www.linkedin.com/in/samuel-weinhardt,Samuel,Weinhardt,"New York, New York, United States",PiSrc,Software Engineer
+https://www.linkedin.com/in/samuelgxu,Samuel,Xu,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/samyaahsan,Samya,Ahsan,"New York, New York, United States",Uber,UCP SWE Fellow
+https://www.linkedin.com/in/sana-zain,Sana,Zain,New York City Metropolitan Area,Veeva Systems,Software Engineer
+https://www.linkedin.com/in/sandeepsuresh1998,Sandeep,Suresh,"New York, New York, United States",Magic,Software Engineer
+https://www.linkedin.com/in/sanjeev-gopal-1514525,Sanjeev,Gopal,"New York, New York, United States",J.P. Morgan,Consultant - Java Developer
+https://www.linkedin.com/in/sarah-le-cam,Sarah,Le Cam,"New York, New York, United States","X, the moonshot factory",Software Engineer
+https://www.linkedin.com/in/sasha-hellstenius,Sasha,Hellstenius,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sbhargava0,Shashank,Bhargava,"New York, New York, United States",withco,Software Engineer
+https://www.linkedin.com/in/schang18,Sean,Chang,"Brooklyn, New York, United States",Nuna Inc.,Software Engineer
+https://www.linkedin.com/in/scott-ellenoff,Scott,Ellenoff,"New York, New York, United States",Goldman Sachs,Software Engineer
+https://www.linkedin.com/in/sean-d-jin,Sean,Jin,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/sean-rayment-8180a512b,Sean,Rayment,"New York, New York, United States",LogRocket,Software Engineer
+https://www.linkedin.com/in/seansliu,Sean,L.,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/sebastian-peralta-87493a135,Sebastian,Peralta,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/selvi-rajan-007766211,Selvi,Rajan,"New York, New York, United States","JAMY INTERACTIVE, INC",Sr.Java Developer
+https://www.linkedin.com/in/serena-k-8a67a7155,Serena,K.,New York City Metropolitan Area,Gusto,Software Engineer
+https://www.linkedin.com/in/seyoungjkim,Seyoung,Kim,"New York, New York, United States",Plaid,Software Engineer
+https://www.linkedin.com/in/sgcoffinas,Spyridon,Coffinas,"New York, New York, United States",Protego Trust,Software Engineer
+https://www.linkedin.com/in/shaheed-sulaiman-902a94207,Shaheed,Sulaiman,"Buffalo, New York, United States",Walmart Global Tech,Delivery Head
+https://www.linkedin.com/in/shaileshvasandani,Shailesh,Vasandani,"Brooklyn, New York, United States",Rain,Founding Software Engineer
+https://www.linkedin.com/in/shalini-dangi,Shalini,Dangi,"New York, New York, United States",Meta,Senior Software Engineer
+https://www.linkedin.com/in/sharanrohan,Rohan,Sharan,"New York, New York, United States",MongoDB,Software Engineer
+https://www.linkedin.com/in/sharon-jin-728b55152,Sharon,Jin,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/shawna-huang,Shawna,Huang,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/shay-gyawali,Shay,G.,"New York, New York, United States",sp0t,Software Engineer Intern
+https://www.linkedin.com/in/shazz-amin,Shazz,Amin,United States,Hudson River Trading,Software Engineer
+https://www.linkedin.com/in/shinexwang,Shine,W.,"New York, New York, United States",Jane Street,Software Engineer
+https://www.linkedin.com/in/shlokshah18,Shlok,Shah,"Atlanta, Georgia, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/shraddha-k27,Shraddha,Kulkarni,"New York, New York, United States",Meta,"Software Engineer, ML"
+https://www.linkedin.com/in/shravangajjela,Shravan,Gajjela,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/shrayp,Shray,P.,"New York, New York, United States",Robinhood,Software Engineer
+https://www.linkedin.com/in/shreeshmareddy,Shreeshma,Reddy,"New York, New York, United States",Visa,Software Engineer
+https://www.linkedin.com/in/shreyan-jain,Shreyan,Jain,"New York, New York, United States",Ramp,Staff Software Engineer
+https://www.linkedin.com/in/shruthi-venkata,Shruthi,Venkata,New York City Metropolitan Area,PolyAI,Software Engineer
+https://www.linkedin.com/in/shuaihaofzny,Shuai,Hao,New York City Metropolitan Area,Moody's Investors Service,Associate Software Engineer
+https://www.linkedin.com/in/shunxin-hu,Shunxin,Hu,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/si-wei0810,SiHyun,W.,"New York, New York, United States",LinkedIn,Software Engineer
+https://www.linkedin.com/in/siddharthkhonde,Siddharth,Khonde,"New York, New York, United States",TD Securities,Software Engineer
+https://www.linkedin.com/in/siddharthmehta96,Siddharth,Mehta,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sijiawu,Sijia,Wu,"Brooklyn, New York, United States",PayPal,Software Developer
+https://www.linkedin.com/in/siyuyao,Angela,Yao,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sjyum,Sang Jun,Yum,"New York, New York, United States",Grubhub,Senior Software Engineer
+https://www.linkedin.com/in/skshmishra,Sakshi,M.,"Brooklyn, New York, United States",Nordstrom,Software Engineer
+https://www.linkedin.com/in/sofiya-thomson-880ab8253,Sofiya,Thomson,"New York, New York, United States",Prometheas Technologies - Software Development Company,Software Engineer
+https://www.linkedin.com/in/sophiabok,Sophia Soyeon,B.,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sophie-tsanang-39b3801a7,Sophie,Tsanang,"New York, New York, United States",Warner Bros. Discovery,Incoming SWE Intern
+https://www.linkedin.com/in/sophiestadler,Sophie,Stadler,"Brooklyn, New York, United States",MongoDB,Senior Software Engineer
+https://www.linkedin.com/in/spencer-sherk-2aa04a174,Spencer,Sherk,"Brooklyn, New York, United States",Variant 3D,Software Engineer
+https://www.linkedin.com/in/sravyabhamidipati,Sravya,Bhamidipati,"New York, New York, United States",Palantir Technologies,Forward Deployed Software Engineer
+https://www.linkedin.com/in/sriharirt,Sri Hari,Thikkireddy,"New York, New York, United States",YouTube,Software Engineer
+https://www.linkedin.com/in/srishti-bagchi,Srishti,Bagchi,United States,Microsoft,Software Engineer
+https://www.linkedin.com/in/srishtipyasi,Srishti,Pyasi,"New York, New York, United States",Morgan Stanley,Software Engineer
+https://www.linkedin.com/in/stanley-ye-1b5aab13b,Stanley,Ye,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/stanleywbwong,Stanley,Wong,New York City Metropolitan Area,Meta,Software Engineer
+https://www.linkedin.com/in/stanz7,Stanley,Zeng,"Brooklyn, New York, United States",Justworks,Software Engineer
+https://www.linkedin.com/in/stephanie-ding-96b872b0,Stephanie,Ding,"New York, New York, United States",Goldman Sachs,Software Engineer
+https://www.linkedin.com/in/stephanie-mcaleer,Stephanie,McAleer,"New York, New York, United States",Morgan Stanley,Software Engineer
+https://www.linkedin.com/in/stephanielinyt,Stephanie,Lin,"New York, New York, United States",Twitter,Senior Software Engineer
+https://www.linkedin.com/in/stephanieyou,Stephanie,You,"New York, New York, United States",Jane Street,Software Engineer
+https://www.linkedin.com/in/stephen-barnes-97398884,Stephen,Barnes,"New York, New York, United States",Two Sigma,Software Developer
+https://www.linkedin.com/in/stephen-berg-99a804126,Stephen,Berg,"Troy, New York, United States",Vectorworks,Software Engineer
+https://www.linkedin.com/in/stevecheruiyot,Steve,C.,"New York, New York, United States","Rubrik, Inc.",Software Engineer
+https://www.linkedin.com/in/stevenbursztyn,Steven,Bursztyn,New York City Metropolitan Area,The D. E. Shaw Group,Software Developer
+https://www.linkedin.com/in/stevenla14,Steven,La,"New York, New York, United States",Squarespace,Software Engineer
+https://www.linkedin.com/in/stevezli98,Steve,L.,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/sunny-dhindsa-043924173,Sunny,Dhindsa,"New York, New York, United States",Moody's Analytics,Associate Software Engineer
+https://www.linkedin.com/in/surajgeddam,Suraj,Geddam,"New York, New York, United States",Google,Software Engineer (L3)
+https://www.linkedin.com/in/sushruti-mishra,Sushruti,Mishra,"New York, United States",Intel Corporation,SDE - AI Intern
+https://www.linkedin.com/in/sydneyhochberg,Sydney,Hochberg,New York City Metropolitan Area,Mastercard Data & Services,Software Engineer II
+https://www.linkedin.com/in/syllaa,Alseny,Sylla,New York City Metropolitan Area,Steadfast Financial LP,Software Engineer
+https://www.linkedin.com/in/taigrace,Grace,Tai,"New York, New York, United States",Oyster Technologies,Software Engineer
+https://www.linkedin.com/in/tanvi-hisaria-0a339016a,Tanvi,Hisaria,"New York, New York, United States",Retool,Software Engineer
+https://www.linkedin.com/in/tanwang,Tan,Wang,"New York, New York, United States",Pinterest,Senior Software Engineer
+https://www.linkedin.com/in/taraweinreb,Atara,W.,New York City Metropolitan Area,Snap,Software Engineer and Product Designer - L4
+https://www.linkedin.com/in/tatiana-zhabrun-818459247,Tatiana,Zhabrun,New York City Metropolitan Area,iTechArt Group,Lead Software Engineer
+https://www.linkedin.com/in/tayloralbus,Taylor,Albus,"Brooklyn, New York, United States",Handshake,Software Engineer
+https://www.linkedin.com/in/tejal-taralekar,Tejal,Taralekar,"Syracuse, New York, United States",Oracle,Software Developer
+https://www.linkedin.com/in/temiloluwa-omitoogun,Temiloluwa,Omitoogun,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/theanthonychen,Anthony,Chen,"Utica, New York, United States",Intrinsic,Software Engineer
+https://www.linkedin.com/in/thejonathanma,Jonathan,Ma,"New York, New York, United States",MongoDB,Software Engineer
+https://www.linkedin.com/in/themaxgoldman,Max,Goldman,"New York, New York, United States",Palantir Technologies,Software Engineer
+https://www.linkedin.com/in/theodore-ted-bausch-5822019a,Theodora,Bausch,"Syracuse, New York, United States",Heila Technologies,Software Engineer
+https://www.linkedin.com/in/thomas-monfre,Thomas,Monfre,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/thomas-uttaro-6652579b,Thomas,Uttaro,"Staten Island, New York, United States",GTS,Software Developer
+https://www.linkedin.com/in/thomasrowlands,Thomas,Rowlands,"New York, New York, United States",Palantir Technologies,Software Engineer
+https://www.linkedin.com/in/tian-low-506423a5,Tian,Low,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/tiancheng-huang,Tiancheng,H.,"New York, New York, United States",LinkedIn,Senior Software Engineer
+https://www.linkedin.com/in/tianwu-wang,Tianwu,W.,New York City Metropolitan Area,LinkedIn,Software Engineer
+https://www.linkedin.com/in/tiaratan,Tiara,Tan,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/tim-kim-a56929168,Tim,Kim,"New York, New York, United States",Zocdoc,Software Engineer
+https://www.linkedin.com/in/timothy-henry,Timothy,Henry,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/timothykha,Timothy,Kha,"New York, New York, United States",Virtu Financial,Strategy Developer
+https://www.linkedin.com/in/timothyshertzer,Timothy,Shertzer,New York City Metropolitan Area,JPMorgan Chase & Co.,Software Engineer
+https://www.linkedin.com/in/tina-lixin-chen-16530bb0,Tina Lixin,Chen,"New York, New York, United States",NerdWallet,Senior Software Engineer
+https://www.linkedin.com/in/tinakli,Tina,Li,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/tingweijoe,Tingwei,Zhou,"New York, New York, United States",Meta Potatoes,DAO Contributor
+https://www.linkedin.com/in/tmoi,Tiffany,Moi,New York City Metropolitan Area,Meta,Software Engineer
+https://www.linkedin.com/in/tony-elevathingal,Anthony,Elevathingal,"New York, New York, United States",Remitly,Software Development Engineer
+https://www.linkedin.com/in/tonykjin,Tony,Jin,"New York, New York, United States",Ripple,Software Engineer
+https://www.linkedin.com/in/tosin-alabi-037338229,Tosin,Alabi,"White Plains, New York, United States",Multiplyr,Software Engineer
+https://www.linkedin.com/in/travis-chambers,Travis,Chambers,"New York, New York, United States",Peloton Interactive,Software Engineer
+https://www.linkedin.com/in/trishasanghal,Trisha,Sanghal,"New York, New York, United States",Orchard,Full Stack Software Engineer
+https://www.linkedin.com/in/trishiet,Trishiet,Ray,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/tso-hsien-shih,Tso-Hsien,Shih,New York City Metropolitan Area,Microsoft,Software Engineer
+https://www.linkedin.com/in/tushar-bhargava-264a189,Tushar,Bhargava,"New York, New York, United States",MongoDB,Senior Software Engineer
+https://www.linkedin.com/in/tyhong,Tyler,Hong,"New York, New York, United States",Stripe,Software Engineer
+https://www.linkedin.com/in/tyler-wang,Tyler,Wang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/vaibhav-bagri,Vaibhav,Bagri,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/vaishali-pari-945939a4,Vaishali,Pari,"New York, New York, United States",Virtusa,Software Engineer
+https://www.linkedin.com/in/valentinechoi,Valentine,Choi,"Brooklyn, New York, United States",Woori FIS (Finance Information System),Software Engineer at MyData(AISP) Project Team
+https://www.linkedin.com/in/vamsee-m,Vamsee,M.,"New York, New York, United States",JPMorgan Chase & Co.,Associate Software Engineer
+https://www.linkedin.com/in/vamshikthirumala,Vamshi,Krishna,"Brooklyn, New York, United States",Torc Robotics,Software Development Engineer
+https://www.linkedin.com/in/vaslnk,Jack,Vasylenko,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/viano-arcery,Viano,Arcery,"Troy, New York, United States",High Slope,Frontend Developer
+https://www.linkedin.com/in/vickyzheng205,Vicky,Zheng,"Egg Harbor, New Jersey, United States",Meta,Software Engineer
+https://www.linkedin.com/in/victor-reyes-507b80135,Victor,Reyes,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/victoria-taylor-64119b128,Victoria,Taylor,"New York, New York, United States",Google,Senior Software Engineer
+https://www.linkedin.com/in/vido-shaweddy-189294134,Vido,Shaweddy,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/vincentqchen1,Vincent,Chen,"West Hartford, Connecticut, United States",Lockheed Martin,Software Engineer Coop
+https://www.linkedin.com/in/vinnie-zhang,Vinnie,Zhang,New York City Metropolitan Area,The Atlantic,Frontend Developer
+https://www.linkedin.com/in/virgilemison,Virgile,Mison,"New York, New York, United States",Google,"Senior Software Engineer, Machine Learning"
+https://www.linkedin.com/in/vishwa35,Vishwa,Shah,"New York, New York, United States",Palantir Technologies,Software Engineer
+https://www.linkedin.com/in/vj92219,Vaibhav,J.,"Brooklyn, New York, United States",NYU College of Arts and Science,Software Engineer Intern
+https://www.linkedin.com/in/vrishti-jain,Vrishti,Jain,"Albany, New York, United States",Nordstrom,Engineer 1
+https://www.linkedin.com/in/vyl,Victor,L.,"New York, New York, United States",Google,"Software Engineer (Search), L4"
+https://www.linkedin.com/in/wai-i-ng-381082ab,Wai,NG,"Brooklyn, New York, United States",Meta,Senior Software Engineer
+https://www.linkedin.com/in/wang-shaun,Shaun,Wang,"New York, New York, United States",Paychex,Software Engineer II
+https://www.linkedin.com/in/wangyuanyuan-profile,YuanYuan,WANG,"Brooklyn, New York, United States",MSCI Inc.,Software Engineer
+https://www.linkedin.com/in/wanli-zhang-ab9baab5,Wanli,Zhang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/wanlong-xu-9358b1107,Wanlong,Xu,"New York, New York, United States",LinkedIn,Software Engineer
+https://www.linkedin.com/in/wanxiao-hong,Wanxiao,Hong,"New York, New York, United States",Oracle,Software Engineer
+https://www.linkedin.com/in/waqaraqeel,Waqar,Aqeel,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/wbwu,Max,W,"New York, New York, United States",Highbeam,Software Engineer
+https://www.linkedin.com/in/wei-luo-mlcu,Wei,Luo,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/wenchao-wang-15865aa1,Wenchao,Wang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/wenli-wang,Wenli,Wang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/will-greenberg,Will,Greenberg,New York City Metropolitan Area,Squarespace,Software Engineer
+https://www.linkedin.com/in/willem-speckmann,Willem,Speckmann,United States,Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/william-christerson,William,Christerson,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/william-yu-27a685168,William,Yu,"New York, New York, United States",Valon,Software Engineer
+https://www.linkedin.com/in/williamlpeng,William,Peng,New York City Metropolitan Area,Meta,Software Engineer
+https://www.linkedin.com/in/williamyao99,William,Yao,"New York, New York, United States",Vividly,Software Engineer
+https://www.linkedin.com/in/williexia,Willie,Xia,"New York, New York, United States",Microsoft,Software Engineer
+https://www.linkedin.com/in/winnie-sun,Winnie,Sun,"New York, New York, United States",Two Sigma,Engineer
+https://www.linkedin.com/in/winnie-wong-284576188,Winnie,Wong,New York City Metropolitan Area,Kin + Carta,Software Engineer
+https://www.linkedin.com/in/wllmshao,William,Shao,"New York, New York, United States",Skip,Engineer
+https://www.linkedin.com/in/wmriley,Will,Riley,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/wufan-shangguan,Wufan,Shangguan,"New York, New York, United States",Snowflake,Software Engineer
+https://www.linkedin.com/in/xaniles,Selina,Xi,United States,Meta,Software Engineer
+https://www.linkedin.com/in/xcjackpan,Jack,Pan,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/xiaofanni,Xiaofan,Ni,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/xingjian-wu-cs,Xingjian,Wu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/xinhe-ellen-feng-253713116,Xinhe,Feng,United States,Oracle,Software Engineer
+https://www.linkedin.com/in/xiong-fei-du-b62a96123,Xiong-Fei,Du,"New York, New York, United States",Jane Street,Software Engineer
+https://www.linkedin.com/in/xiuqichen,Xiu,Chen,"Manhattan, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/xizhu-deng,XiZhu,Deng,New York City Metropolitan Area,Uber,Software Engineer
+https://www.linkedin.com/in/xuanyueyang,Ethan,Yang,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/xuran-wang-7118b3150,Xuran,Wang,"New York, New York, United States",LinkedIn,Software Engineer
+https://www.linkedin.com/in/ya-elle,Yaelle,Goldschlag,"New York, New York, United States",Instagram,Software Engineer
+https://www.linkedin.com/in/yanfei-p-38340b129,Yanfei,P.,"New York, New York, United States",UBS,Software Engineer
+https://www.linkedin.com/in/yanfei-xue,Yanfei,Xue,"Brooklyn, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yang-liu-90a25492,Yang,Liu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yash-j-shah,Yash,Shah,"Brooklyn, New York, United States",Pinterest,Software Engineer
+https://www.linkedin.com/in/yibo-xu-942181127,Yibo,Xu,"New York, New York, United States",MongoDB,Software Engineer
+https://www.linkedin.com/in/yichun-li-1b050b106,Yichun,Li,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yifan020yang,Yifan,Yang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yiheng-zhang-242581b3,Yiheng,Zhang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yihong-zhou,Yihong,Zhou,United States,LinkedIn,Software Engineer
+https://www.linkedin.com/in/yiming-zhao,Amy,Zhao,New York City Metropolitan Area,Lyft,Software Engineer
+https://www.linkedin.com/in/yiminwang102,Yi Min,Wang,"Great Neck, New York, United States",Onaroll,Software Engineer
+https://www.linkedin.com/in/ying-wang-90611714a,Ying,Wang,"New York, New York, United States",New York University,Research Assistant
+https://www.linkedin.com/in/yingke-yu,Yingke,Yu,"New York, New York, United States",Millennium,Quantitative Developer
+https://www.linkedin.com/in/yingninggui,Yingning,G.,"New York, New York, United States",Palantir Technologies,Forward Deployed Engineer
+https://www.linkedin.com/in/yiping-lyu,Yiping,Lyu,"New York, New York, United States","SMBC Capital Markets, Inc.",Software Engineer
+https://www.linkedin.com/in/yiu-chung-tommy-yau,Yiu Chung,Yau,New York City Metropolitan Area,Sawyer,Software Engineer
+https://www.linkedin.com/in/yizhou-luo-494470a2,Yizhou,Luo,"New York, New York, United States",LinkedIn,Senior Software Engineer
+https://www.linkedin.com/in/yoki-yuan,Yoki,Y.,"New York, New York, United States",LinkedIn,Software Engineer
+https://www.linkedin.com/in/yong-chen-89678b1a8,Yong,Chen,"New York, New York, United States",J.P. Morgan,Software Engineer
+https://www.linkedin.com/in/yousef-alowayed,Yousef,Alowayed,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/ypan619,Yiming,Pan,"New York, New York, United States",Goldman Sachs,Software Engineer Associate
+https://www.linkedin.com/in/yuan-ling-530067a4,Yuan,Ling,"New York, New York, United States",Splunk,Forward Deployed Software Engineer
+https://www.linkedin.com/in/yuanjie-fu,Yuanjie,Fu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yuanqinghong,Yuanqing,Hong,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/yucan-liu,Yucan,Liu,"New York, New York, United States",Snowflake,Software Engineer
+https://www.linkedin.com/in/yucen-sun,Yucen,Sun,"New York, New York, United States",Two Sigma,Software Engineer
+https://www.linkedin.com/in/yuchen-cao-441134134,Yuchen,Cao,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yue-mao-11026717b,Yue,Mao,"New York, New York, United States",Huawei,软件工程师
+https://www.linkedin.com/in/yue-wang1664,Yvonne,Wang,"New York, New York, United States",Instacart,Senior Software Engineer
+https://www.linkedin.com/in/yuege-chen-90835a143,Yuege,Chen,"Buffalo, New York, United States",Oracle,Senior Software Engineer
+https://www.linkedin.com/in/yuexu2,Yue,Xu,"New York, New York, United States",Goldman Sachs,Software Engineer
+https://www.linkedin.com/in/yujia-zhai-a13494102,Yujia,Zhai,"New York, New York, United States",Microsoft,Software Engineer II
+https://www.linkedin.com/in/yumeng-triss-ren-307278152,Yumeng 'Triss',Ren,"New York, New York, United States",Yext,Software Engineer
+https://www.linkedin.com/in/yuming-fu-7b054114b,Yuming,Fu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yuning-sun,Yuning,Sun,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/yunweiliang,Yunwei,Liang,"New York, New York, United States",Meta,Software Engineer
+https://www.linkedin.com/in/yuting-judy-zhang,Judy,Zhang,"New York, New York, United States",LinkedIn,UI Engineer
+https://www.linkedin.com/in/yuzhou-wu-7157b6a8,Yuzhou,Wu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/zach-page-520a98104,Zach,Page,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/zachary-laporta,Zachary,L.,"New York, New York, United States",Millennium,Software Engineer
+https://www.linkedin.com/in/zachary-pear-aa7b5a139,Zachary,Pear,"New York, New York, United States",Palantir Technologies,Software Engineer
+https://www.linkedin.com/in/zachary-schadt,Zachary,Schadt,"New York, New York, United States",Sema4,Software Engineer II
+https://www.linkedin.com/in/zachjs,Zachary,Snow,"New York, New York, United States",The D. E. Shaw Group,Software Engineer - Futures
+https://www.linkedin.com/in/zarwanhashem,Zarwan,Hashem,"New York, New York, United States",LinkedIn,Software Engineer
+https://www.linkedin.com/in/zefanya-putri-95b020a8,Zefanya,Putri,"Syracuse, New York, United States","Saab, Inc.",Software Engineer
+https://www.linkedin.com/in/zeyuwang-cu,Zeyu,Wang,"New York, New York, United States",Google,Software Engineer Intern - Google Compute Engine
+https://www.linkedin.com/in/zhaneric,Eric,Z.,"New York, New York, United States",Snap,Software Engineer
+https://www.linkedin.com/in/zhaoli92,Zhao,Li,"New York, New York, United States",Indeed,Software Engineer
+https://www.linkedin.com/in/zhaoxi-chen-084316150,Zhaoxi,Chen,"Brooklyn, New York, United States",Grubhub,Software Engineer II
+https://www.linkedin.com/in/zhen-zhen-b992651a,Zhen,Zhen,"New York, New York, United States",Google,Engineer
+https://www.linkedin.com/in/zhenghao,Hao,Zheng,"New York, New York, United States",Goldman Sachs,Software Engineer
+https://www.linkedin.com/in/zhixuan-du-071095175,Zhixuan,Du,New York City Metropolitan Area,Tencent,Software Engineer
+https://www.linkedin.com/in/zhiyaohu,Lucas,Hu,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/zhiyi-zhou-b87b591a4,Zhiyi,Zhou,"Stony Brook, New York, United States",Microsoft Research Asia Alumni,Research Intern
+https://www.linkedin.com/in/zhiyingxu,Zhiying,Xu,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/zhuangyu-ren-742bb516a,Zhuangyu,Ren,New York City Metropolitan Area,Yext,Software Engineer
+https://www.linkedin.com/in/ziao-wang-21a97a157,Ziao,Wang,"New York, New York, United States",Google,Software Engineer
+https://www.linkedin.com/in/zihanjiao,Zihan,Jiao,New York City Metropolitan Area,Google,Software Engineer
+https://www.linkedin.com/in/zijun-li-baruch,Zijun,Li,"New York, New York, United States",Millennium,Quantitative developer Intern
+https://www.linkedin.com/in/ziniuyu,Ziniu,Yu,"Brooklyn, New York, United States",Jina AI,Software Engineer
+https://www.linkedin.com/in/zirui-hao,Ziray,Hao,"Rocky Hill, Connecticut, United States",Skiff,Software Engineer Intern
+https://www.linkedin.com/in/zoe-walden-7191b4185,Zoe,Walden,New York City Metropolitan Area,Uber,Senior Software Engineer
+https://www.linkedin.com/in/zulfiqar-soomro,Zulfiqar,Soomro,"New York, New York, United States",Square,Software Engineer
+https://www.linkedin.com/in/zwd-25aa32163,Zhijing,Wu,"New York, New York, United States",Project Basta,Interview Mentor
+https://www.linkedin.com/in/tim-malaney,Tim,Malaney,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/howard-cheung,Howard,Cheung,United States,Spotify,Backend Software Engineer
+https://www.linkedin.com/in/ben-r-63506b226,Ben,R,"Jersey City, New Jersey, United States",Spotify,Sr. Elastic Engineer
+https://www.linkedin.com/in/kataiello,Kat,Aiello,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/mkane,Matthew,Kane,"Salem, Massachusetts, United States",Spotify,Engineer II
+https://www.linkedin.com/in/arjunnair89,Arjun,Nair,"Boston, Massachusetts, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/nehabits,Neha,Kumari,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/gregory-krylov-9741751a3,Gregory,Krylov,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/john-edmonds-8b80ba1b,John,Edmonds,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/koliva,Kayla,Oliva,"New York, New York, United States",Spotify,Engineer II
+https://www.linkedin.com/in/denizamado,Deniz,Amado,New York City Metropolitan Area,Spotify,Software Engineer II
+https://www.linkedin.com/in/adithyachakilam,Adithya,C.,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jahaanjain,Jahaan,J.,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/kevinbaijnath,Kevin,Baijnath,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/joshuanoll,Josh,Noll,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/nechama-ziemba,Nechama,Ziemba,"Jackson, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/dberko,Daniel,B.,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/florin-matei-b8b51948,Florin,Matei,"Bristol, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/danfnyc,Daniel,Ferrer,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/riddhikasliwal,Riddhi,Kasliwal,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/dimitrisklimis,Dimitrios,Klimis,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/matthew-barth-32007753,Matthew,Barth,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/yong-nkfum-92616447,Yong,Nkfum,Greater Boston,Spotify,Software Engineer
+https://www.linkedin.com/in/johnnymarnell,Johnny (John),Marnell,"New York, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/zhongheng-yang,Zhongheng,Yang,New York City Metropolitan Area,Spotify,"software enginee, data engineering"
+https://www.linkedin.com/in/samuel-drew-meyers,Drew,Meyers,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/rezahanjani,Kiarash,Rezahanjani,"New York, New York, United States",Spotify,Software Engineer - ML Infrastructure/FeatureStore/ModelServing
+https://www.linkedin.com/in/mattrocco2,Matthew,R.,"Wallingford, Connecticut, United States",Spotify,Backend Software Engineer
+https://www.linkedin.com/in/teresachoe,Teresa,Choe,United States,Spotify,Software Engineer
+https://www.linkedin.com/in/jelani-canty,Jelani,Canty,"Brooklyn, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/ashish-bulchandani,Ashish,Bulchandani,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/laurencampbell20,Lauren,Campbell,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/ravi-munde,Ravi,Munde,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/reed-bendian,Reed,Bendian,"Mahwah, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/pratik-rasam-5a90294b,Pratik,Rasam,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/mahnoor-junaid-54b055bb,Mahnoor,Junaid,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/aumitleon,Aumit,L.,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/john-philip,John,P.,"White Plains, New York, United States",Spotify,Software Engineer II
+https://uk.linkedin.com/in/antoniosanagnostou,Antonis,Anagnostou,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/clee421,Calvin,Lee,"Brooklyn, New York, United States",Spotify,Software Engineer - Machine Learning Platform
+https://www.linkedin.com/in/davidmartinezlebron,David,Martinez-Lebron,Greater Boston,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/amyagold,Amy,Gold,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/ivo-senese,Ivo,S.,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/luigi-parlato-7a859582,Luigi,Parlato,Greater Cambridge Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/kimberlyguo,Kimberly,G.,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/luis-gustavo-de-medeiros-35456b86,Luis Gustavo,De Medeiros,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/lzhao92,Leon,Zhao,New York City Metropolitan Area,Spotify,Software Engineer Fellow
+https://uk.linkedin.com/in/epacces,Eriprando,Pacces,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/akhilesh-maddali,Akhilesh,Maddali,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/marcopcosta,Marco,Costa,United Kingdom,Spotify,Software Engineer II
+https://www.linkedin.com/in/matthew-nwen,Matthew,Nguyen,"Queens, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/mgraceglenn,Grace,Glenn,"Brooklyn, New York, United States",Spotify,Machine Learning Platform Engineer
+https://uk.linkedin.com/in/manish-kale,Manish,Kale,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/ploski,Arek,Płoski,"London, England, United Kingdom",Spotify,Staff Engineer
+https://uk.linkedin.com/in/jasmine-yt-chen,Jasmine,Chen,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/emrecumali,Emre,Cumali,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/carminecarella,Carmine,Carella,"London Area, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/soohyunkim1,Soo,K.,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/fatih-kucukyavuz,Fatih,Kucukyavuz,"London, England, United Kingdom",Spotify,Staff Engineer
+https://www.linkedin.com/in/cummingswilliam,William,Cummings,"Somerville, Massachusetts, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/taneja-karan,Karan,Taneja,"New York, New York, United States",Spotify,Engineer II
+https://www.linkedin.com/in/hossainsafwan,Safwan,Hossain,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/nu7124,Nadim,Uddin,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/elizabeth-kelly,Elizabeth,K.,New York City Metropolitan Area,Spotify,Software Engineer II
+https://www.linkedin.com/in/adamwlui,Adam,Lui,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/sourav-pal,Sourav,Pal,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/lucas-flowers,Lucas,Flowers,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/bola-oyetade-79b826151,Bola,Oyetade,United Kingdom,Spotify,Associate Software Engineer
+https://uk.linkedin.com/in/bhrother,Bruno Henrique,Rother,"London Area, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/tim-han,Tim,Han,New York City Metropolitan Area,Spotify,Engineer II
+https://uk.linkedin.com/in/cetineralper,Alper,Çetiner,"Cambridge, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/vivekshah20,Vivek,Shah,"New York, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/moises-dolores-64a0a61b3,Moises,Dolores,"New York, New York, United States",Spotify,Associate Software Engineer
+https://www.linkedin.com/in/ye-myat-thein-6a209329,Ye Myat,Thein,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/marlon-rugama-18045232,Marlon,Rugama,"Brooklyn, New York, United States",Spotify,Engineer I
+https://www.linkedin.com/in/daniel-shlyuger-43b5043a,Daniel,Shlyuger,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/phoebe-nichols-327511136,Phoebe,Nichols,"Cambridge, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/michael-sanders-730b681b,Michael,sanders,Greater Boston,Spotify,Staff Engineer
+https://www.linkedin.com/in/vlad-stelea,Vlad,Stelea,Greater Boston,Spotify,Software Engineer
+https://uk.linkedin.com/in/carolinamartes,Carolina,Martes,United Kingdom,Spotify,Software Engineer
+https://www.linkedin.com/in/matt-florkiewicz-5a84aaa8,Matt,Florkiewicz,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/beraldof,Filippo,B.,United Kingdom,Spotify,Software Engineer II (Android)
+https://uk.linkedin.com/in/nagarajtantri,Nagaraj,Tantri,"London, England, United Kingdom",Spotify,Senior Engineer
+https://uk.linkedin.com/in/katcodes,Katie,Walker,"City of Durham, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/silviumihaila,Silviu,Mihaila,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/nazzb,Naz,Z.,"London, England, United Kingdom",Spotify,Software Engineer / Backend Engineer
+https://uk.linkedin.com/in/edward-gerrard,Ed,Gerrard,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/leolien,Leo,Lien,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/aaron-kuderka-2a5065a9,Aaron,Kuderka,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/madhuripalle,Madhuri,Palle,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/riley-marsh-bb83ab142,Riley,Marsh,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/prottoycse,Mahbub,Morshed,"New York, New York, United States",Spotify,Experienced Software Engineer
+https://www.linkedin.com/in/joovay-arias,Joovay,Arias,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/kushaldalall,Kushal,Dalal,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/anavgagneja,Anav,Gagneja,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/denyssecunza,Denysse,Cunza,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/edmondton,Edmond,Chow,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/adrianmoses,Adrian,Moses,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/jameswweir,James,Weir,"Wigan, England, United Kingdom",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/karsegal,Karen,Segal,New York City Metropolitan Area,Spotify,Senior Engineer
+https://www.linkedin.com/in/jackson-quinn-488507134,Jackson,Quinn,New York City Metropolitan Area,Spotify,Engineer II
+https://uk.linkedin.com/in/jontuk,Jon,Turner,"Woking, England, United Kingdom",Spotify,Senior Engineer
+https://www.linkedin.com/in/kirwinm,Matte,Kirwin,Greater Boston,Spotify,"Software Engineer (Backend, Algorithms)"
+https://uk.linkedin.com/in/mahima-jain98,Mahima,Jain,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/ilyalyamkin,Ilya,Lyamkin,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/ammar-al-batool-b85626132,Ammar,Al-Batool,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/robertedwardcarney,Robert,Carney,Greater Boston,Spotify,Engineer II
+https://uk.linkedin.com/in/luan-van-pletsen,Luan,van Pletsen,United Kingdom,Spotify,Engineer II
+https://www.linkedin.com/in/jenisearaujo,Jenise,Araujo,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/mesfinbekele,Mesfin Bekele,Mekonnen,"Bronx, New York, United States",Spotify,Senior Engineer
+https://uk.linkedin.com/in/nk412,Nagarjuna,Kumar,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/li--song,Song,Li,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/antoniob3llo,Antonio,Bello,United Kingdom,Spotify,Software Engineer II
+https://www.linkedin.com/in/rapha%C3%ABl-estrach-48778080,Raphaël,Estrach,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/michaeljames015,Michael,James,United Kingdom,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/matthew-cook-b26a37147,Matthew,Cook,"Somerville, Massachusetts, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/heidi-neuhaeuser,Heidi,Neuhäuser,"London Area, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/natengall,Allen,Tang,Greater Boston,Spotify,Software Engineer
+https://uk.linkedin.com/in/joscmw95,Joshua,Chan,"London, England, United Kingdom",Spotify,Senior Engineer
+https://uk.linkedin.com/in/daniel-cattlin-a115729a,Daniel,Cattlin,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/siqi-wei-6727bb13b,Siqi,Wei,United Kingdom,Spotify,Software Engineer
+https://www.linkedin.com/in/yoshneer,Yoshnee,R.,"Boston, Massachusetts, United States",Spotify,Senior Engineer
+https://uk.linkedin.com/in/mathanv,Mathan,Varatharaja,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/he-jill-gao-16b40326,He (Jill),Gao,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/joshuawreford,Josh,Wreford,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/andreachan1024,Andrea,Chan,Greater Boston,Spotify,Software Engineer
+https://uk.linkedin.com/in/mendess,Lucas,Mendes,"London Area, United Kingdom",Spotify,Staff Software Engineer
+https://uk.linkedin.com/in/wagaun,Wagner,Tsuchiya 土谷,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/dharmsingh,Dharmendra,Singh,"Bristol, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/fionakstanley,Fiona,Stanley,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/antoniosiopongco,Antonio,Siopongco,"Springfield, New Jersey, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/dmytrokuiko,Dmytro,Kuiko,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/gnitsua,Austin,Gentry,"New York, New York, United States",Spotify,Software Development Engineer II
+https://www.linkedin.com/in/michael-henderson-58409b29,Michael,Henderson,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/shubha-gupta-58a7b668,Shubha,Gupta,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/joonpark13,Joon,Park,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/andrewemerson,📱 Andrew,E.,Greater Brighton and Hove Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/newmanjoseph,Joseph,Newman,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/nathalia-lie,Nathalia,L.,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/joshdronsfield,Josh,Dronsfield,"Saint Johns Wood, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/nicksimmons97,Nick,Simmons,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/matt-fownes-369590203,Matt,Fownes,"Queens, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/leahmperri,Leah,Perri,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/sagarmanohar,Sagar,Manohar,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/calvin-flegal-96369315,Calvin,Flegal,"Boston, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jaabbott,Jacob,A.,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/anujakhemka,Anuja,Khemka,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/avihoo-mamka-049b3b6a,Avihoo,Mamka,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jonathanzallas,Jonathan,Zallas,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/chet-sharma-653b06104,Chet,Sharma,"Brooklyn, New York, United States",Spotify,Data Infrastructure Engineer
+https://www.linkedin.com/in/william-ramsey-0196b31,William,Ramsey,"Brooklyn, New York, United States",Spotify,Staff Software Engineer
+https://uk.linkedin.com/in/shannonfarvolden,Shannon,Farvolden,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/gogopavl,Pavlos,Gogousis,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/egantoun,Elie,Antoun,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/matt-mcdaniel-70346711,Matt,Mcdaniel,"South Grafton, Massachusetts, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/izzy-zelichenko-00559384,Izzy,Zelichenko,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/alexandergharibian,Alexander,Gharibian,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/bilawalhameed,Bilawal,H.,"Wilmslow, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/berrakanil,Berrak,Anıl Alkan,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/avrilshawnpryce,Avril Shawn,Pryce,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/oskar-arvidsson,Oskar,A.,"New York, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/erick-manzanares,Erick,Manzanares,"West Hempstead, New York, United States",Spotify,Associate Software Engineer
+https://www.linkedin.com/in/meghana-seetharam,Meghana,Seetharam,"New York, New York, United States",Spotify,Senior Engineer
+https://www.linkedin.com/in/charlesluna27,Charles,Luna,New York City Metropolitan Area,Spotify,Android Software Engineer
+https://uk.linkedin.com/in/avidort,Avidor,Torgeman,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/edcheung1,Ed,Cheung,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/sarah-michels-02449928,Sarah,Michels,"New York, New York, United States",Spotify,Backend Software Engineer
+https://www.linkedin.com/in/mklevin,Matt,Levin,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/tommasomadonia,Tommaso,Madonia,United Kingdom,Spotify,Software Engineer
+https://uk.linkedin.com/in/madalina-s-39396339,Madalina,S.,United Kingdom,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/sachin-mangal,Sachin,M.,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/imsamitpatel,Samit,Patel,"Lyndhurst, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/derling,Derling,Diaz,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/davidsuarez1,David,Suarez,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/juan-bautista-berretta-659337a7,Juan Bautista,Berretta,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/reabhasin,Rea,B.,"Queens County, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/petrvacek,Petr,Vacek,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/syjulian,Julian,Sy,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/allison-ziegler,Allison,Ziegler,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/jordan-idehen-143934157,Jordan,Idehen,Greater Boston,Spotify,Software Engineer
+https://uk.linkedin.com/in/avisarra,Adrian T.,V.,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/samuelngahane,Samuel,Ngahane,"New York, New York, United States",Spotify,Staff ML Software Engineer
+https://www.linkedin.com/in/leah-bissey,Leah,Bissey,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/arjun-bajaj-5a237995,Arjun,Bajaj,"Brooklyn, New York, United States",Spotify,Backend Software Engineer
+https://www.linkedin.com/in/arogozin,Aleksandr,Rogozin,New York City Metropolitan Area,Spotify,"Senior Site Reliability Engineer, Observability"
+https://www.linkedin.com/in/ahmednawara,Ahmed,Nawara,"New York, New York, United States",Spotify,Senior Staff Software Engineer
+https://www.linkedin.com/in/jose-sabal,Jose,Sabal,"Queens County, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/matthew-horan-81b03b97,Matthew,Horan,"Brooklyn, New York, United States",Spotify,Staff Engineer - Core Infra
+https://www.linkedin.com/in/kirstierodriguez,Kirstie,Rodriguez,New York City Metropolitan Area,Spotify,Associate Software Engineer
+https://www.linkedin.com/in/kale-evans-75b25531,Kale,Evans,"New York, New York, United States",Spotify,Staff Engineer
+https://uk.linkedin.com/in/jonjam,Jonathan,Harrison,"Sheffield, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/gloriayli,Gloria,Li,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/richardphanx,Richard,P.,"New York, New York, United States",Spotify,Senior Engineer
+https://uk.linkedin.com/in/georgesheppard,George,Sheppard,"West Kensington, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/vera-song,Vera,S.,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/jordan-loeser,Jordan,Loeser,"New York, New York, United States",Spotify,Engineer II
+https://www.linkedin.com/in/michaelrybacki,Michael,Rybacki,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/iamhamid-mehmood,Hamid,Mehmood,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/mikesereiko,Mike,Sereiko,"New York, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/aaron-parry-003,Aaron,Parry,United States,Spotify,Software Engineer
+https://www.linkedin.com/in/bryanperino,Bryan,Perino,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/rachel-amanda-katz,Rachel,Katz,"Livingston, New Jersey, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/piotrszachewicz,Piotr,Szachewicz,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/mattsbrown,Matt,Brown,"West Orange, New Jersey, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/saniaarif,Sania,Arif,"New York, New York, United States",Spotify,Staff Engineer
+https://uk.linkedin.com/in/james-norman-60763625,James,Norman,"Amersham, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/zws33,Zachary,Smith,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/doherty-guirand,Doherty,Guirand,"New York, New York, United States",Spotify,Associate Software Engineer
+https://www.linkedin.com/in/justin-sarma-a7071b3,Justin,Sarma,"New York, New York, United States",Spotify,Software Developer
+https://www.linkedin.com/in/peterthai,Peter,Thai,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/raissasarmento,Raíssa,S.,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/vbabaev,Vadim,Babaev,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/matt-sammarco,Matt,Sammarco,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/snallapareddy,Sahith,Nallapareddy,"Grafton, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/varsha-subrahmanyam,Varsha,Subrahmanyam,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/owenheneghan,Owen,Heneghan,"Somerville, Massachusetts, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/romualdcari,Romuald,Cari,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/natalie-lee-483571122,Natalie,Lee,"New York, New York, United States",Spotify,Engineer II
+https://www.linkedin.com/in/abhijeetsingh-uta,Abhijeet,Singh,"New York, New York, United States",Spotify,Software Engineer
+https://ro.linkedin.com/in/teorosu,Teodor,Rosu,Romania,Spotify,Software Engineer
+https://www.linkedin.com/in/mioalter,Mio,A.,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/david-adewoyin,David,Adewoyin,"Bronx, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/dflemi,Dan,Fleming,"Brooklyn, New York, United States",Spotify,Staff Engineer
+https://uk.linkedin.com/in/megan-arneau-133552a8,Megan,Arneau,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/bricelin,Brice,L.,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/liem-ta-25810022,Liem,Ta,New York City Metropolitan Area,Spotify,Lead Software Engineer
+https://uk.linkedin.com/in/yini-c-83787745,Yini,C.,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/olivier-bonal-1760652,Olivier,Bonal,"Chessington, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/matthew-fontana,Matthew,Fontana,"Elmwood Park, New Jersey, United States",Spotify,Senior Data Software Engineer
+https://www.linkedin.com/in/christie-oh-a84219a1,Christie,Oh,New York City Metropolitan Area,Spotify,Senior Engineer
+https://www.linkedin.com/in/niklas-pousette-harger,Nik,P.,Greater Boston,Spotify,Software Engineer
+https://uk.linkedin.com/in/mykhail-shtryhel,Mike,Shtryhel,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/ivan-schurawel,Ivan,Schurawel,New York City Metropolitan Area,Spotify,Frontend Engineer
+https://uk.linkedin.com/in/anninodepetra,Annino,De Petra,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/evgeny-nam-789b9125,Evgeny,Nam,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/adam-chase-702a584,Adam,Chase,"Reading, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/dinaj,Dina,Jawad,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/joecanuel,Joe,Canuel,"New York, New York, United States",Spotify,Senior Site Reliability Engineer
+https://www.linkedin.com/in/kylejs,Kyle,Satti,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/pallavipillutla,Pallavi,Pillutla,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/henry-warren,Henry,Warren,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/archeralex,Alex,Archer,"London, England, United Kingdom",Spotify,Software Engineer
+https://ca.linkedin.com/in/shradhamenon,Shradha,Menon,Canada,Spotify,Software Engineer Intern
+https://www.linkedin.com/in/davidweixia,David,Xia,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/dcorapi,Domenico,Corapi,"London, England, United Kingdom",Spotify,Staff Engineer
+https://uk.linkedin.com/in/syllerim,Mirellys,Arteta Davila,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/srujankumargulla,Srujan Kumar,Gulla,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/tanvirt,Tanvir,Talukder,United States,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/leblonk,Marcel,Blonk,"West Orange, New Jersey, United States",Spotify,Lead Software Engineer
+https://www.linkedin.com/in/jakelipson,Jake,Lipson,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/joicecm,Joice,M.,"London, England, United Kingdom",Spotify,Software Engineer - Design Systems
+https://www.linkedin.com/in/allan-johns-808a7659,Allan,Johns,"Boston, Massachusetts, United States",Spotify,Backend Senior Software Engineer
+https://uk.linkedin.com/in/andrelopezd,Andre,L.,"London, England, United Kingdom",Spotify,Software Backend Engineer
+https://uk.linkedin.com/in/roshan-shah-240829103,Roshan,Shah,"London Area, United Kingdom",Spotify,Engineer 1
+https://www.linkedin.com/in/janice-wong,Janice,W.,"New York, New York, United States",Spotify,Engineer II
+https://uk.linkedin.com/in/abdullah-m-2a1677167,Abdullah,M.,"London, England, United Kingdom",Spotify,Associate Software Engineer
+https://www.linkedin.com/in/wenjiapan,Wenjia,P.,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/samuel-kohonen,Samuel,Kohonen,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/jettca,Jett,Andersen,United States,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jaleks,Jessica,Aleks,"Manhattan, New York, United States",Spotify,"Senior Software Engineer, Backend"
+https://uk.linkedin.com/in/bszwej,Bartłomiej,Szwej,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/elliotjrg,Elliot,Griffiths,"New York, New York, United States",Spotify,Software Engineer II
+https://uk.linkedin.com/in/evgenii-polunin-95763242,Evgenii,Polunin,"Greenwich, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/erica-hyman-54992081,Erica,Hyman,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/joshrichardson100,Josh,Richardson,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/sara-solano-70a31a64,Sara,Solano,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/sushant-kr-gupta,Sushant,Gupta,"London Area, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/llynchbill,Bill,Lynch,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/nolanl,Nolan,L.,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/nezihe-pehlivan-574761125,Nezihe,Pehlivan,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/vladislavsocolov,Vladislav,Socolov,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/iralls,Ian,Ralls,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/nikita-rau-91a39184,Nikita,Rau,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/changdrew,Andrew,Chang,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/lewickitom,Tomasz,Lewicki,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/guystone,Guy,Stone,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/alona-ilienko,Alona,Ilienko,United Kingdom,Spotify,Software Engineer / iOS
+https://www.linkedin.com/in/nick-rutigliano,🎧 Nick,Rutigliano,"New York, New York, United States",Spotify,Senior Site Reliability Engineer
+https://www.linkedin.com/in/andrew-cheong,Andrew,Cheong,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/ben-allpass,Ben,Allpass,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/ernest-yu-13670a5,Ernest,Yu,"New York, New York, United States",Spotify,Software Developer
+https://www.linkedin.com/in/mayuri-kingre,Mayuri,Kingre,New York City Metropolitan Area,Spotify,Software Engineer II
+https://www.linkedin.com/in/shangyeshen,Yeshen,Shang,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/mattfinkel,Matt,Finkel,"Cambridge, Massachusetts, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/nicholas-krzysiak,Nick,Krzysiak,"Rochester, New York, United States",Spotify,Software Engineer II
+https://uk.linkedin.com/in/tatianatatiana,Tatiana,D.,"London, England, United Kingdom",Spotify,"Software Engineer, iOS"
+https://www.linkedin.com/in/jasonmmiguel,Jason,Miguel,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/sumitsu,Branden,Smith,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/ryanculbertson,Ryan,Culbertson,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/sarahlaforets,Sarah,Laforêts,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/nicholas-maraston-62598688,Nicholas,Maraston,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/andrew-apollonsky-2530b827,Andrew,Apollonsky,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/corycalderone,Cory,C.,"Boston, Massachusetts, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/cronaut,Ana,Shevchenko,United Kingdom,Spotify,Software Engineer II
+https://uk.linkedin.com/in/jin-x-793a5293,Jin,X.,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/marcushultman,Marcus,Hultman,"Boston, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/shireenkheradpey,Shireen,Kheradpey,New York City Metropolitan Area,Spotify,Machine Learning Infrastructure Engineer
+https://www.linkedin.com/in/christopherghanem,Christopher,Ghanem,New York City Metropolitan Area,Spotify,Senior Engineer
+https://www.linkedin.com/in/aprilablon,April,Ablon,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/jamescollerton,James,Collerton,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/deepikal,Deepika,L.,New York City Metropolitan Area,Spotify,Senior Engineer
+https://www.linkedin.com/in/robwil,Robert,Williams,New York City Metropolitan Area,Spotify,Staff Engineer
+https://www.linkedin.com/in/ben-ouattara-045484108,Ben,Ouattara,Greater Boston,Spotify,Software Engineer
+https://www.linkedin.com/in/drew-mokris-614795,Drew,Mokris,"Pittsford, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/paullamere,Paul,Lamere,"Nashua, New Hampshire, United States",Spotify,Director of Developer Platform
+https://www.linkedin.com/in/rikelmy-burgos-1049a2b6,Rikelmy,Burgos,"Bronx, New York, United States",Spotify,Associate Engineer
+https://www.linkedin.com/in/urvi-tanna,Urvi Tanna,Doshi ☁⚡️,"Hoboken, New Jersey, United States",Spotify,Senior Software Engineer
+https://sg.linkedin.com/in/zhe-c-sg,Zhe,C.,Singapore,Spotify,Senior Engineer
+https://uk.linkedin.com/in/paulius-kuzmickas-1b35ba12b,Paulius,Kuzmickas,"London, England, United Kingdom",Spotify,Software Engineer II
+https://www.linkedin.com/in/etai-arnon-90b47815,Etai,Arnon,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/michael-d-5b74a03,Michael,D.,Greater Boston,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/johanna-martens-6732b4a0,Johanna,Martens,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/michael-smith-6626a441,Michael,Smith,"Hoboken, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/amaniates,Alexander,Maniates,"Boston, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/alihirani,Ali,Hirani,"Brooklyn, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/joychugh,Joy,Chugh,"Cambridge, Massachusetts, United States",Spotify,Sr. Software Engineer
+https://www.linkedin.com/in/khanidrees,Idrees,Khan,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/eefine,Eefine,Chang,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/andrewstephenmartin,Andrew,Martin,"New York, New York, United States",Spotify,Senior Machine Learning Engineer
+https://uk.linkedin.com/in/ameera-al,Ameera,Al-shaibani,"London, England, United Kingdom",Spotify,Software Engineer II
+https://uk.linkedin.com/in/thomas-elder-53219056,Thomas,Elder,"London, England, United Kingdom",Spotify,Software Engineer II (Java)
+https://www.linkedin.com/in/eoinhoconnor,Eoin,O'Connor,"New York, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/chasejenkins,Chase,Rutherford-Jenkins,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/beth-jen,Beth,Jen,"New York, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/anthonylobianco,Anthony,L.,"Brooklyn, New York, United States",Spotify,Senior Software Engineer (iOS)
+https://www.linkedin.com/in/timmorrill,Tim,Morrill,Greater Boston,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/alexpersian,Alex,Persian,"Brooklyn, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/dzolotusky,Dave,Zolotusky,Greater Boston,Spotify,Principal Engineer
+https://www.linkedin.com/in/nima-khishtan,Nima,Khishtan,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/ljustin0701,Justin,L.,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/natasha-s-whitney,Natasha,Whitney,"New York, New York, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/balint-dezso-b50279b1,Balint,Dezso,"Keynsham, England, United Kingdom",Spotify,Senior Engineer
+https://www.linkedin.com/in/saakshi-verma-06a66713,Saakshi,Verma,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/michael-moscardini-2980782a,Michael,Moscardini,Greater Boston,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jomaxx,Josef,Blake,"New York, New York, United States",Spotify,Senior Staff Engineer
+https://uk.linkedin.com/in/mike-ruane-2937115a,Mike,Ruane,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/mushfiqul-haque,Mushfiqul,Haque,"London Area, United Kingdom",Spotify,Senior Engineer
+https://www.linkedin.com/in/randy-lee-b2320020,Randy,Lee,"New York, New York, United States",Spotify,Backend Software Engineer
+https://uk.linkedin.com/in/roxana-frunza,Roxana,Frunza,"London Area, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/matthewclarke47,Matthew,Clarke,"New York, New York, United States",Spotify,Senior Infrastructure Engineer
+https://www.linkedin.com/in/abramov-alex,Alexander,Abramov,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/nikitabawa,Nikita,Bawa,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/philip-deitz-93482080,Philip,Deitz,"Huntington Station, New York, United States",Spotify,Software Development Engineer In Test
+https://www.linkedin.com/in/patrick-pierson-473bab19,Patrick,Pierson,"Gillette, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/maryokhin,Tymur,Maryokhin,"Boston, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/chekalin,Stanislav,Chekalin,New York City Metropolitan Area,Spotify,Senior Engineer
+https://uk.linkedin.com/in/jackpalmer2,Jack,Palmer,"Leeds, England, United Kingdom",Spotify,Staff Engineer
+https://www.linkedin.com/in/justin-bard-26a854a7,Justin,Bard,"Jersey City, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/nurit-izraelov,Nurit,Izraelov,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/kurtjacobson,Kurt,Jacobson,Greater Boston,Spotify,Staff Engineer
+https://www.linkedin.com/in/ken-gorab,Ken,Gorab,"Maplewood, New Jersey, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/olgaianiuk,Olga,I.,"New York, New York, United States",Spotify,Machine Learning Infrastructure Engineer
+https://www.linkedin.com/in/jtc3161,Justin,Carter,"Rochester, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/toma867,Tom,Allen,"Jersey City, New Jersey, United States",Spotify,Senior Engineer
+https://uk.linkedin.com/in/marina-perez-llorca-995ab7150,Marina,Perez-Llorca,United Kingdom,Spotify,Software Engineer
+https://www.linkedin.com/in/nickkoller,Nicholas,Koller,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/shubbansal,Shubham,Bansal,"Jersey City, New Jersey, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/jotamartins,João Vitor,Martins,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/lucia-predoi,Lucia,Predoi,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/andre-vilela-b460378,Andre,Vilela,Greater Boston,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/brianschristensen,Brian,Christensen,"Brooklyn, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/tripproberts,Tripp,Roberts,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/wihardjo-nathaniel,Nathaniel,Wihardjo,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/catalin-calotescu-01375687,Catalin,Calotescu,"London, England, United Kingdom",Spotify,Software Engineer
+https://uk.linkedin.com/in/stefan-dougan-hyde-16272534,Stefan,Dougan-Hyde,"London, England, United Kingdom",Spotify,Senior Engineer
+https://www.linkedin.com/in/patrick-rand,Patrick,Rand,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/fallon-chen-aa49906,Fallon,Chen,"New York, New York, United States",Spotify,Senior Software Engineer - Data Infrastructure
+https://www.linkedin.com/in/stephanie-c-19467123,Stephanie,C.,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/ryan-clough-9821a612,Ryan,Clough,"Brooklyn, New York, United States",Spotify,"Sr. Software Engineer, Machine Learning Infrastructure"
+https://www.linkedin.com/in/aarondaubman,Aaron,Daubman,"North Billerica, Massachusetts, United States",Spotify,Software Engineering Manager
+https://www.linkedin.com/in/gpape,Greg,Pape,"New York, New York, United States",Spotify,Senior Engineer
+https://www.linkedin.com/in/aroncedercrantz,Aron,Cedercrantz,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/michaeleshelton,Michael,Shelton,"New York, New York, United States",Spotify,Senior Software Engineer
+https://fr.linkedin.com/in/alaunet,Alexandra,Launet,France,Spotify,Senior Software Engineer (Android)
+https://www.linkedin.com/in/mandrewparrish,M. Andrew,Parrish,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/james-la-broy-9ba23659,James,La Broy,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/firstway,Biao,Li,"Millburn, New Jersey, United States",Clear Street,Senior Software Engineer
+https://uk.linkedin.com/in/miketlewis,Mike,Lewis,"London, England, United Kingdom",Spotify,Staff Engineer
+https://www.linkedin.com/in/magnusskold,Magnus,Sköld,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/ainhoalarumbe,Ainhoa,Larumbe,Greater Southampton Area,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/rama-milaneh,Rama,Milaneh,New York City Metropolitan Area,Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/maryam-nikoukar-b3555626,Maryam,Nikoukar,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/bkuberek,Bastian,Kuberek,"New York, New York, United States",Spotify,"Senior Software Engineer, Talk Mission"
+https://www.linkedin.com/in/nickplatt,Nick,Platt,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/mohammed-omar-4-the-win,Mohammed,Omar,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/andyqtang,Andy,Tang,New York City Metropolitan Area,Spotify,Software Engineer
+https://uk.linkedin.com/in/tetiana-karagodova-40938227,Tetiana,Karagodova,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/sdiazb,Sergio,Díaz Bautista,"London, England, United Kingdom",Spotify,Senior Engineer
+https://www.linkedin.com/in/huntermccurry,Hunter,McCurry,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/rasprit-kaur-8b272b8a,Rasprit,Kaur,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/ispicer,Isaiah,Spicer,"Union City, New Jersey, United States",Spotify,Software Engineer
+https://uk.linkedin.com/in/ted-eriksson-9aaa7079,Ted,Eriksson,United Kingdom,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/lindaliu538,Linda,Liu,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/tarun-c-57a989136,Tarun,C.,"New York, New York, United States",Spotify,Senior Engineer
+https://www.linkedin.com/in/ashanti-johnson-83b5a8177,Ashanti,Johnson,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/mike-blockley-712ba9127,Mike,Blockley,"New York, New York, United States",Spotify,Senior Software Developer
+https://www.linkedin.com/in/mmcmahon67,Matt,McMahon,"South Hamilton, Massachusetts, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/azxie,Alice,Xie,"New York, New York, United States",Spotify,Software Engineer II
+https://www.linkedin.com/in/kenneth-link-78695a30,Kenneth,Link,United States,Spotify,Senior Software Engineer
+https://www.linkedin.com/in/fanling-chen-37953082,Fanling,Chen,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/matthew-nicholson-5809473,Matthew,Nicholson,"Maynard, Massachusetts, United States",Spotify,Senior Site Reliability Engineer
+https://www.linkedin.com/in/david-karivalis-3a098091,David,Karivalis,New York City Metropolitan Area,Spotify,Software Engineer
+https://www.linkedin.com/in/lisa-veras-868543100,Lisa,Veras,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/chris-palmer-448b769,Chris,Palmer,"New York, New York, United States",Spotify,"Staff Software Engineer, Royalties"
+https://uk.linkedin.com/in/rob-paton-15110892,Rob,Paton,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/sriram-malladi-a8193a26,Sriram,Malladi,"New York, New York, United States",Spotify,Software Developer
+https://www.linkedin.com/in/keenan-cassidy-1862a439,Keenan,Cassidy,"Brooklyn, New York, United States",Spotify,Staff Software Engineer
+https://www.linkedin.com/in/keira-aneiros-73b37238,Keira,Aneiros,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/toddmohney,Todd,Mohney,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/milcho-penchev-06915933,Milcho,Penchev,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/bcleenders,Bram,Leenders,"New York, New York, United States",Spotify,Staff Engineer
+https://www.linkedin.com/in/michael-scibor-29304592,Michael,Scibor,"Staten Island, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/rickard-dybeck-2359162a,Rickard,Dybeck,"New York, New York, United States",Spotify,Software Engineer
+https://www.linkedin.com/in/veronika-crkvov%C3%A1-64060a87,Veronika,Crkvová,United States,Spotify,Software engineer
+https://www.linkedin.com/in/levinjoe,Joseph,Levin,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/lucas-santoro-b9285b39,Lucas,Santoro,"New York, New York, United States",Spotify,Backend Software Engineer (Anchor)
+https://www.linkedin.com/in/mjcabot,Matthew,Cabot,New York City Metropolitan Area,Spotify,Senior Engineer
+https://www.linkedin.com/in/bindiakalra,Bindia,Kalra,New York City Metropolitan Area,Spotify,Senior Engineer
+https://uk.linkedin.com/in/pete-clark-3b598748,Pete,Clark,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/elon-rubin,Elon,Rubin,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/ggentzke,Glenn,Gentzke,"New York, New York, United States",Spotify,Senior Engineer
+https://www.linkedin.com/in/dante-federici-2ab27847,Dante,Federici,"New York, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/tommeng,Thomas,Meng,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/jdliaw,Jennifer,Liaw,"New York, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/dennisrunz,Dennis,Runz,"London, England, United Kingdom",Spotify,Senior Software Engineer
+https://www.linkedin.com/in/alex-lorenzi,Alex,Lorenzi,"Brooklyn, New York, United States",Spotify,Senior Software Engineer
+https://uk.linkedin.com/in/marcdestefanis,Marc,Destefanis,"London, England, United Kingdom",Spotify,Software Engineer
+https://www.linkedin.com/in/dcfernandez,Denise,Fernandez,"New York, New York, United States",Spotify,Staff Software Engineer
